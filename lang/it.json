@@ -131,7 +131,8 @@
     "sourceHydro": "Idrofobicità: scala Kyte-Doolittle, J. Mol. Biol. 157:105-132 (1982).",
     "sourceAroma": "Aromaticità: frazione F/W/Y secondo Lobry (1994).",
     "sourceInstability": "Instability index: Guruprasad, Reddy e Pandit (1990), matrice DIWV dichiarata in JSON.",
-    "loadedFrom": "Sequenza precaricata da: {name} ({id})"
+    "loadedFrom": "Sequenza precaricata da: {name} ({id})",
+    "nonStandardWarning": "Calcolo eseguito su {analyzed} residui standard su {original}: simboli non standard ignorati ({symbols}). I valori sono stime sulla sola porzione analizzabile."
   },
   "statistics": {
     "title": "Statistiche",

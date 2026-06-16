@@ -830,3 +830,12 @@ textarea {
   background: var(--surface-2);
   border-radius: 0 6px 6px 0;
 }
+
+.lab-warning {
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.55rem 0.8rem;
+  border-left: 3px solid #d98a00;
+  background: color-mix(in srgb, #d98a00 14%, var(--surface));
+  border-radius: 0 6px 6px 0;
+  font-size: 0.9rem;
+}

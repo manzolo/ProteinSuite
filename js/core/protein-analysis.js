@@ -149,14 +149,25 @@ export function composition(sequence) {
 export function analyzeSequence(record, constants, options = {}) {
   const validation = validateSequence(record.sequence);
   const sequence = record.sequence.split("").filter((letter) => STANDARD.includes(letter)).join("");
-  if (!validation.validForCalculation) {
-    return { record, validation, sequence, error: "Sequence contains ambiguous, stop, or invalid symbols." };
+  if (!sequence.length) {
+    return { record, validation, sequence, error: "Sequence contains no standard amino acids to analyze." };
   }
+  const skipped = validation.invalid.length + validation.ambiguous.length + validation.stops;
+  const warning = skipped > 0
+    ? {
+        analyzedLength: sequence.length,
+        originalLength: record.sequence.length,
+        ambiguous: validation.ambiguous,
+        invalid: validation.invalid,
+        stops: validation.stops
+      }
+    : null;
   const pH = Number(options.pH ?? 7);
   const windowSize = Number(options.windowSize ?? 9);
   return {
     record,
     validation,
+    warning,
     sequence,
     length: sequence.length,
     molecularWeightAverage: molecularWeight(sequence, constants, "average"),

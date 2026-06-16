@@ -131,7 +131,8 @@
     "sourceHydro": "Hydrophobicity: Kyte-Doolittle scale, J. Mol. Biol. 157:105-132 (1982).",
     "sourceAroma": "Aromaticity: F/W/Y fraction following Lobry (1994).",
     "sourceInstability": "Instability index: Guruprasad, Reddy, and Pandit (1990), DIWV matrix declared in JSON.",
-    "loadedFrom": "Sequence preloaded from: {name} ({id})"
+    "loadedFrom": "Sequence preloaded from: {name} ({id})",
+    "nonStandardWarning": "Computed on {analyzed} of {original} standard residues: non-standard symbols were skipped ({symbols}). Values are estimates over the analyzable portion only."
   },
   "statistics": {
     "title": "Statistics Center",

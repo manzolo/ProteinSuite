@@ -43,10 +43,24 @@ function resultTable(result, i18n) {
     `;
   }
   const stable = result.instabilityIndex < 40 ? i18n.t("lab.predictedStable") : i18n.t("lab.predictedUnstable");
+  let warningBanner = "";
+  if (result.warning) {
+    const symbols = [
+      ...result.warning.ambiguous,
+      ...result.warning.invalid,
+      ...(result.warning.stops > 0 ? ["*"] : [])
+    ];
+    const message = i18n.t("lab.nonStandardWarning")
+      .replace("{symbols}", symbols.join(", "))
+      .replace("{analyzed}", result.warning.analyzedLength)
+      .replace("{original}", result.warning.originalLength);
+    warningBanner = `<p class="lab-warning" role="status">⚠️ ${escapeHtml(message)}</p>`;
+  }
   return `
     <article class="panel">
       <h2>${escapeHtml(result.record.id)}</h2>
       <p class="muted">${escapeHtml(result.record.description)}</p>
+      ${warningBanner}
       <div class="table-scroll">
         <table class="data-table">
           <tbody>
