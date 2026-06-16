@@ -1,0 +1,101 @@
+{
+  "retrieved": "2026-06-16",
+  "source": "UniProt REST API, reviewed:true AND database:pdb plus category-specific filters",
+  "recordCount": 294,
+  "uniqueUniProtIds": 294,
+  "uniqueStoredPdbIds": 826,
+  "categories": {
+    "Transport": 32,
+    "Structural": 32,
+    "Enzyme": 32,
+    "Immune": 32,
+    "Signaling": 32,
+    "Membrane": 22,
+    "Viral": 32,
+    "DNA Binding": 32,
+    "RNA Binding": 32,
+    "Fluorescent": 16
+  },
+  "organismCount": 43,
+  "familyCount": 148,
+  "queries": [
+    {
+      "category": "Transport",
+      "query": "reviewed:true AND database:pdb AND keyword:Transport",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "Structural",
+      "query": "reviewed:true AND database:pdb AND (protein_name:actin OR protein_name:tubulin OR protein_name:collagen OR protein_name:keratin OR protein_name:myosin)",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "Enzyme",
+      "query": "reviewed:true AND database:pdb AND keyword:Enzyme",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "Immune",
+      "query": "reviewed:true AND database:pdb AND keyword:Immunity",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "Signaling",
+      "query": "reviewed:true AND database:pdb AND keyword:Signal",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "Membrane",
+      "query": "reviewed:true AND database:pdb AND keyword:Membrane",
+      "target": 32,
+      "added": 22
+    },
+    {
+      "category": "Viral",
+      "query": "reviewed:true AND database:pdb AND keyword:Viral",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "DNA Binding",
+      "query": "reviewed:true AND database:pdb AND keyword:DNA-binding",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "RNA Binding",
+      "query": "reviewed:true AND database:pdb AND keyword:RNA-binding",
+      "target": 32,
+      "added": 32
+    },
+    {
+      "category": "Fluorescent",
+      "query": "reviewed:true AND database:pdb AND (protein_name:fluorescent OR protein_name:GFP OR protein_name:luminescent)",
+      "target": 32,
+      "added": 16
+    }
+  ],
+  "errors": [],
+  "validation": {
+    "uniprotIds": "All entries were returned by UniProtKB search with reviewed:true and database:pdb.",
+    "pdbIds": "PDB IDs are UniProt xref_pdb values and are formatted as four-character RCSB PDB accessions."
+  },
+  "rcsbValidation": {
+    "api": "https://data.rcsb.org/graphql",
+    "checkedPdbIds": 826,
+    "validPdbIds": 826,
+    "missingPdbIds": [],
+    "errors": []
+  },
+  "licenseHandling": {
+    "approach": "Conservative static redistribution: store minimal factual index fields and outbound links; do not redistribute modified UniProt narrative annotation text.",
+    "uniprot": "Records were discovered through UniProt REST API; attribution and links are retained for each accession.",
+    "rcsbPdb": "Stored PDB IDs were validated through RCSB Data API and link to RCSB structure pages.",
+    "note": "This is not legal advice; review source terms before public release."
+  }
+}

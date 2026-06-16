@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "introduction",
+    "title": {
+      "en": "Introduction",
+      "it": "Introduzione"
+    },
+    "path": {
+      "en": "docs/en/introduction.md",
+      "it": "docs/it/introduction.md"
+    }
+  },
+  {
+    "slug": "proteins",
+    "title": {
+      "en": "Proteins",
+      "it": "Proteine"
+    },
+    "path": {
+      "en": "docs/en/proteins.md",
+      "it": "docs/it/proteins.md"
+    }
+  },
+  {
+    "slug": "amino-acids",
+    "title": {
+      "en": "Amino Acids",
+      "it": "Amminoacidi"
+    },
+    "path": {
+      "en": "docs/en/amino-acids.md",
+      "it": "docs/it/amino-acids.md"
+    }
+  },
+  {
+    "slug": "protein-structure",
+    "title": {
+      "en": "Protein Structure",
+      "it": "Struttura proteica"
+    },
+    "path": {
+      "en": "docs/en/protein-structure.md",
+      "it": "docs/it/protein-structure.md"
+    }
+  },
+  {
+    "slug": "protein-folding",
+    "title": {
+      "en": "Protein Folding",
+      "it": "Ripiegamento proteico"
+    },
+    "path": {
+      "en": "docs/en/protein-folding.md",
+      "it": "docs/it/protein-folding.md"
+    }
+  },
+  {
+    "slug": "hydrophobicity",
+    "title": {
+      "en": "Hydrophobicity",
+      "it": "Idrofobicità"
+    },
+    "path": {
+      "en": "docs/en/hydrophobicity.md",
+      "it": "docs/it/hydrophobicity.md"
+    }
+  },
+  {
+    "slug": "charge",
+    "title": {
+      "en": "Charge",
+      "it": "Carica"
+    },
+    "path": {
+      "en": "docs/en/charge.md",
+      "it": "docs/it/charge.md"
+    }
+  },
+  {
+    "slug": "molecular-weight",
+    "title": {
+      "en": "Molecular Weight",
+      "it": "Peso molecolare"
+    },
+    "path": {
+      "en": "docs/en/molecular-weight.md",
+      "it": "docs/it/molecular-weight.md"
+    }
+  },
+  {
+    "slug": "fasta",
+    "title": {
+      "en": "FASTA",
+      "it": "FASTA"
+    },
+    "path": {
+      "en": "docs/en/fasta.md",
+      "it": "docs/it/fasta.md"
+    }
+  },
+  {
+    "slug": "pdb",
+    "title": {
+      "en": "PDB",
+      "it": "PDB"
+    },
+    "path": {
+      "en": "docs/en/pdb.md",
+      "it": "docs/it/pdb.md"
+    }
+  },
+  {
+    "slug": "uniprot",
+    "title": {
+      "en": "UniProt",
+      "it": "UniProt"
+    },
+    "path": {
+      "en": "docs/en/uniprot.md",
+      "it": "docs/it/uniprot.md"
+    }
+  },
+  {
+    "slug": "protein-design",
+    "title": {
+      "en": "Protein Design",
+      "it": "Protein design"
+    },
+    "path": {
+      "en": "docs/en/protein-design.md",
+      "it": "docs/it/protein-design.md"
+    }
+  },
+  {
+    "slug": "glossary",
+    "title": {
+      "en": "Glossary",
+      "it": "Glossario"
+    },
+    "path": {
+      "en": "docs/en/glossary.md",
+      "it": "docs/it/glossary.md"
+    }
+  },
+  {
+    "slug": "faq",
+    "title": {
+      "en": "FAQ",
+      "it": "FAQ"
+    },
+    "path": {
+      "en": "docs/en/faq.md",
+      "it": "docs/it/faq.md"
+    }
+  },
+  {
+    "slug": "references",
+    "title": {
+      "en": "References",
+      "it": "Riferimenti"
+    },
+    "path": {
+      "en": "docs/en/references.md",
+      "it": "docs/it/references.md"
+    }
+  }
+]

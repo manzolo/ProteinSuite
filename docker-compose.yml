@@ -1,0 +1,8 @@
+services:
+  protein-suite:
+    build: .
+    image: protein-suite
+    container_name: protein-suite
+    ports:
+      - "${PORT:-8080}:80"
+    restart: unless-stopped

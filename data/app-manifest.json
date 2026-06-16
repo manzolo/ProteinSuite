@@ -1,0 +1,150 @@
+{
+  "name": "Protein Suite",
+  "version": "0.1.0",
+  "modules": [
+    {
+      "key": "catalog",
+      "url": "#/catalog",
+      "title": {
+        "it": "Catalogo proteine",
+        "en": "Protein Catalog"
+      },
+      "summary": {
+        "it": "Catalogo filtrabile di proteine curate con collegamenti a UniProt e RCSB PDB.",
+        "en": "Filterable catalog of curated proteins with links to UniProt and RCSB PDB."
+      },
+      "capabilities": {
+        "it": [
+          "Ricerca testuale su nome, gene, funzione, organismo e parole chiave.",
+          "Filtri per categoria, organismo e famiglia.",
+          "Collegamenti esterni verso schede UniProt e strutture PDB."
+        ],
+        "en": [
+          "Text search across name, gene, function, organism, and keywords.",
+          "Filters by category, organism, and family.",
+          "External links to UniProt records and PDB structures."
+        ]
+      }
+    },
+    {
+      "key": "explorer",
+      "url": "#/explorer",
+      "title": {
+        "it": "Protein Explorer",
+        "en": "Protein Explorer"
+      },
+      "summary": {
+        "it": "Schede di esplorazione per confrontare identità, funzione, localizzazione e riferimenti strutturali.",
+        "en": "Exploration cards for comparing identity, function, localization, and structural references."
+      },
+      "capabilities": {
+        "it": [
+          "Vista dettagliata dei campi del dataset.",
+          "Navigazione tra proteine correlate per famiglia e categoria.",
+          "Riferimenti rapidi a Knowledge Center e Protein Lab."
+        ],
+        "en": [
+          "Detailed view of dataset fields.",
+          "Navigation across related proteins by family and category.",
+          "Quick references to Knowledge Center and Protein Lab."
+        ]
+      }
+    },
+    {
+      "key": "lab",
+      "url": "#/lab",
+      "title": {
+        "it": "Protein Lab",
+        "en": "Protein Lab"
+      },
+      "summary": {
+        "it": "Analisi di sequenze amminoacidiche con metodi citabili: massa, carica, pI, GRAVY, aromaticità e stabilità.",
+        "en": "Amino-acid sequence analysis with citable methods: mass, charge, pI, GRAVY, aromaticity, and stability."
+      },
+      "capabilities": {
+        "it": [
+          "Validazione IUPAC di sequenze proteiche.",
+          "Parser FASTA singolo e multi-sequenza.",
+          "Calcoli biochimici basati su costanti dichiarate."
+        ],
+        "en": [
+          "IUPAC validation of protein sequences.",
+          "Single and multi-sequence FASTA parser.",
+          "Biochemical calculations based on declared constants."
+        ]
+      }
+    },
+    {
+      "key": "fasta",
+      "url": "#/fasta",
+      "title": {
+        "it": "FASTA Manager",
+        "en": "FASTA Manager"
+      },
+      "summary": {
+        "it": "Area per importare, validare, normalizzare e confrontare record FASTA.",
+        "en": "Workspace for importing, validating, normalizing, and comparing FASTA records."
+      },
+      "capabilities": {
+        "it": [
+          "Parsing multi-record.",
+          "Pulizia di spazi e numerazione non sequenziale.",
+          "Esportazione di sequenze normalizzate."
+        ],
+        "en": [
+          "Multi-record parsing.",
+          "Cleanup of whitespace and non-sequence numbering.",
+          "Export of normalized sequences."
+        ]
+      }
+    },
+    {
+      "key": "statistics",
+      "url": "#/statistics",
+      "title": {
+        "it": "Statistiche",
+        "en": "Statistics Center"
+      },
+      "summary": {
+        "it": "Distribuzioni e riepiloghi del dataset proteico per categorie, organismi, famiglie e lunghezze.",
+        "en": "Protein dataset distributions and summaries by categories, organisms, families, and lengths."
+      },
+      "capabilities": {
+        "it": [
+          "Conteggi per categoria funzionale.",
+          "Distribuzione delle lunghezze proteiche.",
+          "Indicatori di copertura del dataset."
+        ],
+        "en": [
+          "Counts by functional category.",
+          "Protein length distribution.",
+          "Dataset coverage indicators."
+        ]
+      }
+    },
+    {
+      "key": "knowledge",
+      "url": "#/knowledge",
+      "title": {
+        "it": "Knowledge Center",
+        "en": "Knowledge Center"
+      },
+      "summary": {
+        "it": "Sistema documentale Markdown bilingue su proteine, strutture, FASTA, PDB, UniProt e metodi di calcolo.",
+        "en": "Bilingual Markdown documentation system covering proteins, structures, FASTA, PDB, UniProt, and calculation methods."
+      },
+      "capabilities": {
+        "it": [
+          "Navigazione per argomenti e breadcrumb.",
+          "Ricerca full-text sui documenti.",
+          "Glossario, FAQ e riferimenti scientifici."
+        ],
+        "en": [
+          "Topic navigation and breadcrumbs.",
+          "Full-text documentation search.",
+          "Glossary, FAQ, and scientific references."
+        ]
+      }
+    }
+  ]
+}

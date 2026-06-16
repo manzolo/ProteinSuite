@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Protein Suite: applicazione educativa statica per esplorare proteine, sequenze FASTA e proprietà biochimiche.">
+    <title>Protein Suite</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/styles.css">
+    <script type="module" src="js/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Salta al contenuto</a>
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="icon-button nav-toggle" type="button" data-action="toggle-nav" aria-controls="primary-nav" aria-expanded="false">
+          <span aria-hidden="true">☰</span>
+          <span class="sr-only" data-i18n="actions.toggleNavigation">Apri navigazione</span>
+        </button>
+        <a class="brand" href="#/dashboard" aria-label="Protein Suite">
+          <img src="assets/favicon.svg" alt="" width="34" height="34">
+          <span>Protein Suite</span>
+        </a>
+        <form class="global-search" role="search" data-search-form>
+          <label class="sr-only" for="global-search-input" data-i18n="search.label">Cerca</label>
+          <input id="global-search-input" name="q" type="search" autocomplete="off" data-search-input data-i18n-placeholder="search.placeholder" placeholder="Cerca proteine, funzioni, documenti">
+          <div class="search-results" data-search-results hidden></div>
+        </form>
+        <div class="topbar-actions">
+          <button class="icon-button" type="button" data-action="toggle-theme" aria-label="Cambia tema" data-i18n-aria-label="actions.toggleTheme">
+            <span data-theme-icon aria-hidden="true">◐</span>
+          </button>
+          <label class="language-select">
+            <span class="sr-only" data-i18n="language.label">Lingua</span>
+            <select data-language-select aria-label="Lingua">
+              <option value="it">IT</option>
+              <option value="en">EN</option>
+            </select>
+          </label>
+        </div>
+      </header>
+
+      <aside class="sidebar" id="primary-nav" data-sidebar>
+        <nav aria-label="Navigazione principale">
+          <a href="#/dashboard" data-route-link="dashboard"><span aria-hidden="true">⌂</span><span data-i18n="nav.dashboard">Dashboard</span></a>
+          <a href="#/catalog" data-route-link="catalog"><span aria-hidden="true">▦</span><span data-i18n="nav.catalog">Catalogo proteine</span></a>
+          <a href="#/explorer" data-route-link="explorer"><span aria-hidden="true">◎</span><span data-i18n="nav.explorer">Protein Explorer</span></a>
+          <a href="#/lab" data-route-link="lab"><span aria-hidden="true">⚗</span><span data-i18n="nav.lab">Protein Lab</span></a>
+          <a href="#/fasta" data-route-link="fasta"><span aria-hidden="true">≡</span><span data-i18n="nav.fasta">FASTA Manager</span></a>
+          <a href="#/statistics" data-route-link="statistics"><span aria-hidden="true">Σ</span><span data-i18n="nav.statistics">Statistiche</span></a>
+          <a href="#/knowledge" data-route-link="knowledge"><span aria-hidden="true">?</span><span data-i18n="nav.knowledge">Knowledge Center</span></a>
+        </nav>
+      </aside>
+
+      <main id="main" class="main" tabindex="-1" data-app-root></main>
+
+      <footer class="app-footer">
+        <p class="footer-credit">
+          <span data-i18n="footer.idea">Da un'idea di Massimo Bianchini (CNR-IFAC)</span>
+          <span aria-hidden="true">·</span>
+          <span data-i18n="footer.tech">Realizzazione tecnica: Andrea Manzini</span>
+        </p>
+        <p class="footer-data" data-i18n="footer.data">Dati: UniProtKB (CC BY 4.0) · RCSB PDB · proprietà calcolate localmente</p>
+        <p class="footer-meta">
+          <span data-i18n="footer.disclaimer">Progetto educativo indipendente, non affiliato alle istituzioni citate.</span>
+          <a href="NOTICE.md" data-i18n="footer.notice">Crediti e licenze</a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

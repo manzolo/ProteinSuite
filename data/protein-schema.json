@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Protein Suite catalog dataset",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "name",
+      "gene",
+      "uniprotId",
+      "pdbIds",
+      "organism",
+      "function",
+      "family",
+      "length",
+      "localization",
+      "keywords",
+      "description",
+      "category"
+    ],
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "gene": {
+        "type": "string"
+      },
+      "uniprotId": {
+        "type": "string",
+        "pattern": "^[A-NR-Z][0-9][A-Z0-9]{3}[0-9](-[0-9]+)?$|^[OPQ][0-9][A-Z0-9]{3}[0-9](-[0-9]+)?$"
+      },
+      "pdbIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[0-9][A-Z0-9]{3}$"
+        },
+        "minItems": 1
+      },
+      "organism": {
+        "type": "string"
+      },
+      "function": {
+        "type": "string"
+      },
+      "family": {
+        "type": "string"
+      },
+      "length": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "localization": {
+        "type": "string"
+      },
+      "keywords": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "description": {
+        "type": "string"
+      },
+      "category": {
+        "enum": [
+          "Transport",
+          "Structural",
+          "Enzyme",
+          "Immune",
+          "Signaling",
+          "Membrane",
+          "Viral",
+          "DNA Binding",
+          "RNA Binding",
+          "Fluorescent"
+        ]
+      }
+    }
+  }
+}
