@@ -1,9 +1,11 @@
+import { withVersion } from "./version.js";
+
 export function createI18n({ defaultLanguage, supportedLanguages, storageKey }) {
   let language = localStorage.getItem(storageKey) || defaultLanguage;
   let dictionary = {};
 
   async function load(lang) {
-    const response = await fetch(`lang/${lang}.json`);
+    const response = await fetch(withVersion(`lang/${lang}.json`));
     if (!response.ok) {
       throw new Error(`Cannot load language file: ${lang}`);
     }

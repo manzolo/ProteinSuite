@@ -1,5 +1,7 @@
+import { withVersion } from "../core/version.js";
+
 export async function dashboardView({ i18n }) {
-  const response = await fetch("data/app-manifest.json");
+  const response = await fetch(withVersion("data/app-manifest.json"));
   const manifest = response.ok ? await response.json() : { modules: [] };
   const lang = i18n.language;
 

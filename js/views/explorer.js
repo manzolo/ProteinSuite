@@ -1,3 +1,5 @@
+import { withVersion } from "../core/version.js";
+
 const state = {
   proteins: [],
   selectedId: "",
@@ -171,7 +173,7 @@ function renderExplorer(root, i18n) {
 
 export async function explorerView({ i18n, params }) {
   if (!state.proteins.length) {
-    const response = await fetch("data/proteins.json");
+    const response = await fetch(withVersion("data/proteins.json"));
     state.proteins = response.ok ? await response.json() : [];
   }
   state.selectedId = params[0] || state.selectedId || state.proteins[0]?.uniprotId || "";

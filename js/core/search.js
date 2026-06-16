@@ -1,8 +1,10 @@
+import { withVersion } from "./version.js";
+
 export function createSearch({ input, results, i18n }) {
   let index = [];
 
   async function loadIndex() {
-    const response = await fetch("data/search-index.json");
+    const response = await fetch(withVersion("data/search-index.json"));
     index = response.ok ? await response.json() : [];
   }
 

@@ -1,3 +1,5 @@
+import { withVersion } from "../core/version.js";
+
 const state = {
   proteins: [],
   filtered: [],
@@ -128,7 +130,7 @@ function renderTable(root) {
 
 export async function catalogView({ i18n }) {
   if (!state.proteins.length) {
-    const response = await fetch("data/proteins.json");
+    const response = await fetch(withVersion("data/proteins.json"));
     state.proteins = response.ok ? await response.json() : [];
     state.filtered = [...state.proteins];
   }

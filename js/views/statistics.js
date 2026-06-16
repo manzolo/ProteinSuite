@@ -1,3 +1,5 @@
+import { withVersion } from "../core/version.js";
+
 function escapeHtml(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -56,7 +58,7 @@ function average(values) {
 }
 
 export async function statisticsView({ i18n }) {
-  const response = await fetch("data/proteins.json");
+  const response = await fetch(withVersion("data/proteins.json"));
   const proteins = response.ok ? await response.json() : [];
   const pdbIds = new Set(proteins.flatMap((protein) => protein.pdbIds));
   const categories = countBy(proteins, "category");

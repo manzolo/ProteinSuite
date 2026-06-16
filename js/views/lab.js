@@ -1,4 +1,5 @@
 import { analyzeSequence, parseFasta } from "../core/protein-analysis.js";
+import { withVersion } from "../core/version.js";
 
 let constants = null;
 let proteins = null;
@@ -8,7 +9,7 @@ MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQ
 
 async function ensureProteins() {
   if (!proteins) {
-    const response = await fetch("data/proteins.json");
+    const response = await fetch(withVersion("data/proteins.json"));
     proteins = response.ok ? await response.json() : [];
   }
   return proteins;
@@ -91,7 +92,7 @@ function resultTable(result, i18n) {
 
 async function ensureConstants() {
   if (!constants) {
-    const response = await fetch("data/protein-constants.json");
+    const response = await fetch(withVersion("data/protein-constants.json"));
     constants = await response.json();
   }
   return constants;

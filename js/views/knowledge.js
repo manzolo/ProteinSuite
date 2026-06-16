@@ -1,3 +1,5 @@
+import { withVersion } from "../core/version.js";
+
 const state = {
   docs: [],
   activeSlug: "introduction",
@@ -56,7 +58,7 @@ function inlineMarkdown(text) {
 async function loadDoc(doc, language) {
   const path = doc.path[language] || doc.path.it;
   if (!state.cache.has(path)) {
-    const response = await fetch(path);
+    const response = await fetch(withVersion(path));
     state.cache.set(path, response.ok ? await response.text() : "");
   }
   return state.cache.get(path);
@@ -98,7 +100,7 @@ async function searchDocs(root, i18n) {
 
 export async function knowledgeView({ i18n, params }) {
   if (!state.docs.length) {
-    const response = await fetch("data/docs-index.json");
+    const response = await fetch(withVersion("data/docs-index.json"));
     state.docs = response.ok ? await response.json() : [];
   }
   state.activeSlug = params[0] || state.activeSlug || "introduction";
