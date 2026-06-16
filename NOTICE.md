@@ -6,9 +6,9 @@ Protein Suite is an independent educational project and is not affiliated with o
 
 ## Crediti / Credits
 
-Il progetto Protein Suite nasce da un'idea di **Massimo Bianchini (CNR-IFAC — Istituto di Fisica Applicata "Nello Carrara", Consiglio Nazionale delle Ricerche)**. La realizzazione tecnica (sviluppo software, architettura, dati) è curata da Andrea Manzini (manzolo).
+Il progetto Protein Suite nasce da un'idea di **Massimo Bianchini (CNR-IFAC — Istituto di Fisica Applicata "Nello Carrara", Consiglio Nazionale delle Ricerche)**. La realizzazione tecnica (sviluppo software, architettura, dati) è curata da Andrea Manzi (manzolo).
 
-Protein Suite originates from an idea by **Massimo Bianchini (CNR-IFAC — "Nello Carrara" Institute of Applied Physics, Italian National Research Council)**. Technical implementation (software development, architecture, data) is by Andrea Manzini (manzolo).
+Protein Suite originates from an idea by **Massimo Bianchini (CNR-IFAC — "Nello Carrara" Institute of Applied Physics, Italian National Research Council)**. Technical implementation (software development, architecture, data) is by Andrea Manzi (manzolo).
 
 ## Fonti scientifiche e dati
 
