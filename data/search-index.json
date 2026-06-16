@@ -60,7 +60,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H611",
     "title": {
       "it": "ATP-dependent DNA helicase PIF1",
       "en": "ATP-dependent DNA helicase PIF1"
@@ -102,7 +102,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96FZ2",
     "title": {
       "it": "Abasic site processing protein HMCES",
       "en": "Abasic site processing protein HMCES"
@@ -141,7 +141,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/A9YTQ3",
     "title": {
       "it": "Aryl hydrocarbon receptor repressor",
       "en": "Aryl hydrocarbon receptor repressor"
@@ -173,7 +173,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86WV5",
     "title": {
       "it": "CST complex subunit TEN1",
       "en": "CST complex subunit TEN1"
@@ -205,7 +205,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H2H0",
     "title": {
       "it": "CXXC-type zinc finger protein 4",
       "en": "CXXC-type zinc finger protein 4"
@@ -235,7 +235,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86WR0",
     "title": {
       "it": "Coiled-coil domain-containing protein 25",
       "en": "Coiled-coil domain-containing protein 25"
@@ -270,7 +270,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N8Q3",
     "title": {
       "it": "Endonuclease V",
       "en": "Endonuclease V"
@@ -305,7 +305,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H790",
     "title": {
       "it": "Exonuclease V",
       "en": "Exonuclease V"
@@ -345,7 +345,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q969F1",
     "title": {
       "it": "General transcription factor 3C polypeptide 6",
       "en": "General transcription factor 3C polypeptide 6"
@@ -374,7 +374,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NZI5",
     "title": {
       "it": "Grainyhead-like protein 1 homolog",
       "en": "Grainyhead-like protein 1 homolog"
@@ -408,7 +408,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0C5Z0",
     "title": {
       "it": "Histone H2A-Bbd type 2/3",
       "en": "Histone H2A-Bbd type 2/3"
@@ -439,7 +439,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q7Z2G1",
     "title": {
       "it": "Histone H2B type W-T",
       "en": "Histone H2B type W-T"
@@ -470,7 +470,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5TEC6",
     "title": {
       "it": "Histone H3-7",
       "en": "Histone H3-7"
@@ -506,7 +506,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NQ69",
     "title": {
       "it": "LIM/homeobox protein Lhx9",
       "en": "LIM/homeobox protein Lhx9"
@@ -538,7 +538,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q3KP22",
     "title": {
       "it": "Membrane-anchored junction protein",
       "en": "Membrane-anchored junction protein"
@@ -573,7 +573,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O00712",
     "title": {
       "it": "Nuclear factor 1 B-type",
       "en": "Nuclear factor 1 B-type"
@@ -609,7 +609,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O60829",
     "title": {
       "it": "P antigen family member 4",
       "en": "P antigen family member 4"
@@ -641,7 +641,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q14863",
     "title": {
       "it": "POU domain, class 6, transcription factor 1",
       "en": "POU domain, class 6, transcription factor 1"
@@ -670,7 +670,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q99581",
     "title": {
       "it": "Protein FEV",
       "en": "Protein FEV"
@@ -703,7 +703,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8NBJ9",
     "title": {
       "it": "SID1 transmembrane family member 2",
       "en": "SID1 transmembrane family member 2"
@@ -744,7 +744,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NR83",
     "title": {
       "it": "SLC2A4 regulator",
       "en": "SLC2A4 regulator"
@@ -778,7 +778,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O60284",
     "title": {
       "it": "Suppression of tumorigenicity 18 protein",
       "en": "Suppression of tumorigenicity 18 protein"
@@ -812,7 +812,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y603",
     "title": {
       "it": "Transcription factor ETV7",
       "en": "Transcription factor ETV7"
@@ -842,7 +842,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O94993",
     "title": {
       "it": "Transcription factor SOX-30",
       "en": "Transcription factor SOX-30"
@@ -874,7 +874,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O75478",
     "title": {
       "it": "Transcriptional adapter 2-alpha",
       "en": "Transcriptional adapter 2-alpha"
@@ -910,7 +910,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P49842",
     "title": {
       "it": "Winged helix repair factor 1",
       "en": "Winged helix repair factor 1"
@@ -946,7 +946,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9BTP6",
     "title": {
       "it": "Zinc finger BED domain-containing protein 2",
       "en": "Zinc finger BED domain-containing protein 2"
@@ -978,7 +978,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96DT7",
     "title": {
       "it": "Zinc finger and BTB domain-containing protein 10",
       "en": "Zinc finger and BTB domain-containing protein 10"
@@ -1016,7 +1016,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H4T2",
     "title": {
       "it": "Zinc finger and SCAN domain-containing protein 16",
       "en": "Zinc finger and SCAN domain-containing protein 16"
@@ -1048,7 +1048,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96C55",
     "title": {
       "it": "Zinc finger protein 524",
       "en": "Zinc finger protein 524"
@@ -1080,7 +1080,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O60481",
     "title": {
       "it": "Zinc finger protein ZIC 3",
       "en": "Zinc finger protein ZIC 3"
@@ -1124,7 +1124,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q16533",
     "title": {
       "it": "snRNA-activating protein complex subunit 1",
       "en": "snRNA-activating protein complex subunit 1"
@@ -1158,7 +1158,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O60825",
     "title": {
       "it": "6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2",
       "en": "6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2"
@@ -1191,7 +1191,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13085",
     "title": {
       "it": "Acetyl-CoA carboxylase 1",
       "en": "Acetyl-CoA carboxylase 1"
@@ -1237,7 +1237,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O00763",
     "title": {
       "it": "Acetyl-CoA carboxylase 2",
       "en": "Acetyl-CoA carboxylase 2"
@@ -1282,7 +1282,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O43252",
     "title": {
       "it": "Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1",
       "en": "Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1"
@@ -1317,7 +1317,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y223",
     "title": {
       "it": "Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase",
       "en": "Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase"
@@ -1358,7 +1358,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P52848",
     "title": {
       "it": "Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1",
       "en": "Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1"
@@ -1400,7 +1400,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H903",
     "title": {
       "it": "Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase 2, mitochondrial",
       "en": "Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase 2, mitochondrial"
@@ -1438,7 +1438,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IU85",
     "title": {
       "it": "Calcium/calmodulin-dependent protein kinase type 1D",
       "en": "Calcium/calmodulin-dependent protein kinase type 1D"
@@ -1482,7 +1482,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96NX5",
     "title": {
       "it": "Calcium/calmodulin-dependent protein kinase type 1G",
       "en": "Calcium/calmodulin-dependent protein kinase type 1G"
@@ -1520,7 +1520,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5FWF4",
     "title": {
       "it": "DNA annealing helicase and endonuclease ZRANB3",
       "en": "DNA annealing helicase and endonuclease ZRANB3"
@@ -1565,7 +1565,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O75417",
     "title": {
       "it": "DNA polymerase theta",
       "en": "DNA polymerase theta"
@@ -1609,7 +1609,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P51530",
     "title": {
       "it": "DNA replication ATP-dependent helicase/nuclease DNA2",
       "en": "DNA replication ATP-dependent helicase/nuclease DNA2"
@@ -1660,7 +1660,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P32321",
     "title": {
       "it": "Deoxycytidylate deaminase",
       "en": "Deoxycytidylate deaminase"
@@ -1692,7 +1692,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q63HN8",
     "title": {
       "it": "E3 ubiquitin-protein ligase RNF213",
       "en": "E3 ubiquitin-protein ligase RNF213"
@@ -1741,7 +1741,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P63128",
     "title": {
       "it": "Endogenous retrovirus group K member 9 Pol protein",
       "en": "Endogenous retrovirus group K member 9 Pol protein"
@@ -1782,7 +1782,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96FI4",
     "title": {
       "it": "Endonuclease 8-like 1",
       "en": "Endonuclease 8-like 1"
@@ -1822,7 +1822,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8TAT5",
     "title": {
       "it": "Endonuclease 8-like 3",
       "en": "Endonuclease 8-like 3"
@@ -1861,7 +1861,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O00757",
     "title": {
       "it": "Fructose-1,6-bisphosphatase isozyme 2",
       "en": "Fructose-1,6-bisphosphatase isozyme 2"
@@ -1902,7 +1902,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O95479",
     "title": {
       "it": "GDH/6PGL endoplasmic bifunctional protein",
       "en": "GDH/6PGL endoplasmic bifunctional protein"
@@ -1939,7 +1939,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13630",
     "title": {
       "it": "GDP-L-fucose synthase",
       "en": "GDP-L-fucose synthase"
@@ -1972,7 +1972,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q53H47",
     "title": {
       "it": "Histone-lysine N-methyltransferase SETMAR",
       "en": "Histone-lysine N-methyltransferase SETMAR"
@@ -2019,7 +2019,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O00370",
     "title": {
       "it": "LINE-1 retrotransposable element ORF2 protein",
       "en": "LINE-1 retrotransposable element ORF2 protein"
@@ -2058,7 +2058,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O43708",
     "title": {
       "it": "Maleylacetoacetate isomerase",
       "en": "Maleylacetoacetate isomerase"
@@ -2093,7 +2093,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P27708",
     "title": {
       "it": "Multifunctional protein CAD",
       "en": "Multifunctional protein CAD"
@@ -2142,7 +2142,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y3Q0",
     "title": {
       "it": "N-acetylated-alpha-linked acidic dipeptidase 2",
       "en": "N-acetylated-alpha-linked acidic dipeptidase 2"
@@ -2185,7 +2185,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13686",
     "title": {
       "it": "Nucleic acid dioxygenase ALKBH1",
       "en": "Nucleic acid dioxygenase ALKBH1"
@@ -2225,7 +2225,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O75914",
     "title": {
       "it": "Serine/threonine-protein kinase PAK 3",
       "en": "Serine/threonine-protein kinase PAK 3"
@@ -2265,7 +2265,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q76MJ5",
     "title": {
       "it": "Serine/threonine-protein kinase/endoribonuclease IRE2",
       "en": "Serine/threonine-protein kinase/endoribonuclease IRE2"
@@ -2308,7 +2308,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O95461",
     "title": {
       "it": "Xylosyl- and glucuronyltransferase LARGE1",
       "en": "Xylosyl- and glucuronyltransferase LARGE1"
@@ -2352,7 +2352,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N6R0",
     "title": {
       "it": "eEF1A lysine and N-terminal methyltransferase",
       "en": "eEF1A lysine and N-terminal methyltransferase"
@@ -2385,7 +2385,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O60942",
     "title": {
       "it": "mRNA-capping enzyme",
       "en": "mRNA-capping enzyme"
@@ -2425,7 +2425,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96BT7",
     "title": {
       "it": "tRNA",
       "en": "tRNA"
@@ -2464,7 +2464,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DM59",
     "title": {
       "it": "Bilirubin-inducible fluorescent protein UnaG",
       "en": "Bilirubin-inducible fluorescent protein UnaG"
@@ -2492,7 +2492,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9U6Y5",
     "title": {
       "it": "GFP-like fluorescent chromoprotein FP506",
       "en": "GFP-like fluorescent chromoprotein FP506"
@@ -2520,7 +2520,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9U6Y4",
     "title": {
       "it": "GFP-like fluorescent chromoprotein FP538",
       "en": "GFP-like fluorescent chromoprotein FP538"
@@ -2550,7 +2550,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9U6Y6",
     "title": {
       "it": "GFP-like fluorescent chromoprotein amFP486",
       "en": "GFP-like fluorescent chromoprotein amFP486"
@@ -2577,7 +2577,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9U6Y3",
     "title": {
       "it": "GFP-like fluorescent chromoprotein cFP484",
       "en": "GFP-like fluorescent chromoprotein cFP484"
@@ -2606,7 +2606,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9U6Y7",
     "title": {
       "it": "GFP-like fluorescent chromoprotein dsFP483",
       "en": "GFP-like fluorescent chromoprotein dsFP483"
@@ -2631,7 +2631,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P83690",
     "title": {
       "it": "GFP-like non-fluorescent chromoprotein",
       "en": "GFP-like non-fluorescent chromoprotein"
@@ -2660,7 +2660,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q95W85",
     "title": {
       "it": "GFP-like non-fluorescent chromoprotein",
       "en": "GFP-like non-fluorescent chromoprotein"
@@ -2687,7 +2687,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9GZ28",
     "title": {
       "it": "GFP-like non-fluorescent chromoprotein FP595",
       "en": "GFP-like non-fluorescent chromoprotein FP595"
@@ -2716,7 +2716,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P42212",
     "title": {
       "it": "Green fluorescent protein",
       "en": "Green fluorescent protein"
@@ -2746,7 +2746,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P12745",
     "title": {
       "it": "Non-fluorescent flavoprotein",
       "en": "Non-fluorescent flavoprotein"
@@ -2769,7 +2769,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P09142",
     "title": {
       "it": "Non-fluorescent flavoprotein",
       "en": "Non-fluorescent flavoprotein"
@@ -2793,7 +2793,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q940U6",
     "title": {
       "it": "Protein FLUORESCENT IN BLUE LIGHT, chloroplastic",
       "en": "Protein FLUORESCENT IN BLUE LIGHT, chloroplastic"
@@ -2829,7 +2829,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9U6Y8",
     "title": {
       "it": "Red fluorescent protein drFP583",
       "en": "Red fluorescent protein drFP583"
@@ -2858,7 +2858,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8ISF8",
     "title": {
       "it": "Red fluorescent protein eqFP611",
       "en": "Red fluorescent protein eqFP611"
@@ -2887,7 +2887,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P21578",
     "title": {
       "it": "Yellow fluorescent protein",
       "en": "Yellow fluorescent protein"
@@ -2915,7 +2915,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q53H80",
     "title": {
       "it": "Akirin-2",
       "en": "Akirin-2"
@@ -2953,7 +2953,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IUN9",
     "title": {
       "it": "C-type lectin domain family 10 member A",
       "en": "C-type lectin domain family 10 member A"
@@ -2996,7 +2996,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6EIG7",
     "title": {
       "it": "C-type lectin domain family 6 member A",
       "en": "C-type lectin domain family 6 member A"
@@ -3034,7 +3034,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O95971",
     "title": {
       "it": "CD160 antigen",
       "en": "CD160 antigen"
@@ -3076,7 +3076,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DOX5",
     "title": {
       "it": "Immunoglobulin gamma-1 heavy chain",
       "en": "Immunoglobulin gamma-1 heavy chain"
@@ -3114,7 +3114,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01880",
     "title": {
       "it": "Immunoglobulin heavy constant delta",
       "en": "Immunoglobulin heavy constant delta"
@@ -3152,7 +3152,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P23083",
     "title": {
       "it": "Immunoglobulin heavy variable 1-2",
       "en": "Immunoglobulin heavy variable 1-2"
@@ -3187,7 +3187,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01764",
     "title": {
       "it": "Immunoglobulin heavy variable 3-23",
       "en": "Immunoglobulin heavy variable 3-23"
@@ -3225,7 +3225,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01772",
     "title": {
       "it": "Immunoglobulin heavy variable 3-33",
       "en": "Immunoglobulin heavy variable 3-33"
@@ -3263,7 +3263,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01780",
     "title": {
       "it": "Immunoglobulin heavy variable 3-7",
       "en": "Immunoglobulin heavy variable 3-7"
@@ -3297,7 +3297,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01825",
     "title": {
       "it": "Immunoglobulin heavy variable 4-59",
       "en": "Immunoglobulin heavy variable 4-59"
@@ -3334,7 +3334,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01594",
     "title": {
       "it": "Immunoglobulin kappa variable 1-33",
       "en": "Immunoglobulin kappa variable 1-33"
@@ -3372,7 +3372,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01597",
     "title": {
       "it": "Immunoglobulin kappa variable 1-39",
       "en": "Immunoglobulin kappa variable 1-39"
@@ -3406,7 +3406,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01593",
     "title": {
       "it": "Immunoglobulin kappa variable 1D-33",
       "en": "Immunoglobulin kappa variable 1D-33"
@@ -3443,7 +3443,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01619",
     "title": {
       "it": "Immunoglobulin kappa variable 3-20",
       "en": "Immunoglobulin kappa variable 3-20"
@@ -3481,7 +3481,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0CG04",
     "title": {
       "it": "Immunoglobulin lambda constant 1",
       "en": "Immunoglobulin lambda constant 1"
@@ -3516,7 +3516,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DOY2",
     "title": {
       "it": "Immunoglobulin lambda constant 2",
       "en": "Immunoglobulin lambda constant 2"
@@ -3554,7 +3554,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DOY3",
     "title": {
       "it": "Immunoglobulin lambda constant 3",
       "en": "Immunoglobulin lambda constant 3"
@@ -3592,7 +3592,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01700",
     "title": {
       "it": "Immunoglobulin lambda variable 1-47",
       "en": "Immunoglobulin lambda variable 1-47"
@@ -3627,7 +3627,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01704",
     "title": {
       "it": "Immunoglobulin lambda variable 2-14",
       "en": "Immunoglobulin lambda variable 2-14"
@@ -3666,7 +3666,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01709",
     "title": {
       "it": "Immunoglobulin lambda variable 2-8",
       "en": "Immunoglobulin lambda variable 2-8"
@@ -3705,7 +3705,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01721",
     "title": {
       "it": "Immunoglobulin lambda variable 6-57",
       "en": "Immunoglobulin lambda variable 6-57"
@@ -3742,7 +3742,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DSE1",
     "title": {
       "it": "M1-specific T cell receptor alpha chain",
       "en": "M1-specific T cell receptor alpha chain"
@@ -3777,7 +3777,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DSE2",
     "title": {
       "it": "M1-specific T cell receptor beta chain",
       "en": "M1-specific T cell receptor beta chain"
@@ -3812,7 +3812,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q2M385",
     "title": {
       "it": "Macrophage-expressed gene 1 protein",
       "en": "Macrophage-expressed gene 1 protein"
@@ -3855,7 +3855,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86W26",
     "title": {
       "it": "NACHT, LRR and PYD domains-containing protein 10",
       "en": "NACHT, LRR and PYD domains-containing protein 10"
@@ -3888,7 +3888,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P26717",
     "title": {
       "it": "NKG2-C type II integral membrane protein",
       "en": "NKG2-C type II integral membrane protein"
@@ -3924,7 +3924,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O14796",
     "title": {
       "it": "SH2 domain-containing protein 1B",
       "en": "SH2 domain-containing protein 1B"
@@ -3954,7 +3954,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96DU3",
     "title": {
       "it": "SLAM family member 6",
       "en": "SLAM family member 6"
@@ -3993,7 +3993,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DTU3",
     "title": {
       "it": "T cell receptor alpha chain MC.7.G5",
       "en": "T cell receptor alpha chain MC.7.G5"
@@ -4029,7 +4029,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01848",
     "title": {
       "it": "T cell receptor alpha chain constant",
       "en": "T cell receptor alpha chain constant"
@@ -4066,7 +4066,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01850",
     "title": {
       "it": "T cell receptor beta constant 1",
       "en": "T cell receptor beta constant 1"
@@ -4105,7 +4105,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q7LC44",
     "title": {
       "it": "Activity-regulated cytoskeleton-associated protein",
       "en": "Activity-regulated cytoskeleton-associated protein"
@@ -4152,7 +4152,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9HA72",
     "title": {
       "it": "Calcium homeostasis modulator protein 2",
       "en": "Calcium homeostasis modulator protein 2"
@@ -4189,7 +4189,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5R3K3",
     "title": {
       "it": "Calcium homeostasis modulator protein 6",
       "en": "Calcium homeostasis modulator protein 6"
@@ -4223,7 +4223,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5VTT2",
     "title": {
       "it": "Cilia- and flagella-associated protein 95",
       "en": "Cilia- and flagella-associated protein 95"
@@ -4259,7 +4259,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UKJ5",
     "title": {
       "it": "Cysteine-rich hydrophobic domain-containing protein 2",
       "en": "Cysteine-rich hydrophobic domain-containing protein 2"
@@ -4290,7 +4290,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6UXV0",
     "title": {
       "it": "GDNF family receptor alpha-like",
       "en": "GDNF family receptor alpha-like"
@@ -4325,7 +4325,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01877",
     "title": {
       "it": "Immunoglobulin heavy constant alpha 2",
       "en": "Immunoglobulin heavy constant alpha 2"
@@ -4366,7 +4366,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01860",
     "title": {
       "it": "Immunoglobulin heavy constant gamma 3",
       "en": "Immunoglobulin heavy constant gamma 3"
@@ -4408,7 +4408,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P01834",
     "title": {
       "it": "Immunoglobulin kappa constant",
       "en": "Immunoglobulin kappa constant"
@@ -4446,7 +4446,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O60667",
     "title": {
       "it": "Immunoglobulin mu Fc receptor",
       "en": "Immunoglobulin mu Fc receptor"
@@ -4489,7 +4489,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/D3W0D1",
     "title": {
       "it": "Killer cell lectin-like receptor subfamily F member 2",
       "en": "Killer cell lectin-like receptor subfamily F member 2"
@@ -4522,7 +4522,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8NHL6",
     "title": {
       "it": "Leukocyte immunoglobulin-like receptor subfamily B member 1",
       "en": "Leukocyte immunoglobulin-like receptor subfamily B member 1"
@@ -4565,7 +4565,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O95868",
     "title": {
       "it": "Lymphocyte antigen 6 complex locus protein G6d",
       "en": "Lymphocyte antigen 6 complex locus protein G6d"
@@ -4597,7 +4597,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P59044",
     "title": {
       "it": "NACHT, LRR and PYD domains-containing protein 6",
       "en": "NACHT, LRR and PYD domains-containing protein 6"
@@ -4636,7 +4636,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/B1AL88",
     "title": {
       "it": "NALCN channel auxiliary factor 1",
       "en": "NALCN channel auxiliary factor 1"
@@ -4670,7 +4670,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P58400",
     "title": {
       "it": "Neurexin-1-beta",
       "en": "Neurexin-1-beta"
@@ -4713,7 +4713,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P58401",
     "title": {
       "it": "Neurexin-2-beta",
       "en": "Neurexin-2-beta"
@@ -4753,7 +4753,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NZG7",
     "title": {
       "it": "Ninjurin-2",
       "en": "Ninjurin-2"
@@ -4782,7 +4782,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6PI25",
     "title": {
       "it": "Protein cornichon homolog 2",
       "en": "Protein cornichon homolog 2"
@@ -4818,7 +4818,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DN84",
     "title": {
       "it": "Sarcoplasmic/endoplasmic reticulum calcium ATPase regulator DWORF",
       "en": "Sarcoplasmic/endoplasmic reticulum calcium ATPase regulator DWORF"
@@ -4845,7 +4845,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6DKI7",
     "title": {
       "it": "Transmembrane protein PVRIG",
       "en": "Transmembrane protein PVRIG"
@@ -4876,7 +4876,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O95876",
     "title": {
       "it": "WD repeat-containing and planar cell polarity effector protein fritz homolog",
       "en": "WD repeat-containing and planar cell polarity effector protein fritz homolog"
@@ -4915,7 +4915,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N6W0",
     "title": {
       "it": "CUGBP Elav-like family member 5",
       "en": "CUGBP Elav-like family member 5"
@@ -4945,7 +4945,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96J87",
     "title": {
       "it": "CUGBP Elav-like family member 6",
       "en": "CUGBP Elav-like family member 6"
@@ -4975,7 +4975,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IYX4",
     "title": {
       "it": "Dead end protein homolog 1",
       "en": "Dead end protein homolog 1"
@@ -5005,7 +5005,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UHK0",
     "title": {
       "it": "FMR1-interacting protein NUFIP1",
       "en": "FMR1-interacting protein NUFIP1"
@@ -5035,7 +5035,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96AZ6",
     "title": {
       "it": "Interferon-stimulated gene 20 kDa protein",
       "en": "Interferon-stimulated gene 20 kDa protein"
@@ -5073,7 +5073,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q7Z7F0",
     "title": {
       "it": "KH homology domain-containing protein 4",
       "en": "KH homology domain-containing protein 4"
@@ -5104,7 +5104,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9P0P8",
     "title": {
       "it": "Mitochondrial transcription rescue factor 1",
       "en": "Mitochondrial transcription rescue factor 1"
@@ -5134,7 +5134,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H3J6",
     "title": {
       "it": "Mitochondrial translation release factor in rescue",
       "en": "Mitochondrial translation release factor in rescue"
@@ -5169,7 +5169,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5VZF2",
     "title": {
       "it": "Muscleblind-like protein 2",
       "en": "Muscleblind-like protein 2"
@@ -5204,7 +5204,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8WY41",
     "title": {
       "it": "Nanos homolog 1",
       "en": "Nanos homolog 1"
@@ -5236,7 +5236,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8WX92",
     "title": {
       "it": "Negative elongation factor B",
       "en": "Negative elongation factor B"
@@ -5273,7 +5273,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8NEY8",
     "title": {
       "it": "Periphilin-1",
       "en": "Periphilin-1"
@@ -5310,7 +5310,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0C024",
     "title": {
       "it": "Peroxisomal coenzyme A diphosphatase NUDT7",
       "en": "Peroxisomal coenzyme A diphosphatase NUDT7"
@@ -5345,7 +5345,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86TB9",
     "title": {
       "it": "Protein PAT1 homolog 1",
       "en": "Protein PAT1 homolog 1"
@@ -5377,7 +5377,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86W50",
     "title": {
       "it": "RNA N(6)-adenosine-methyltransferase METTL16",
       "en": "RNA N(6)-adenosine-methyltransferase METTL16"
@@ -5413,7 +5413,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9BTL3",
     "title": {
       "it": "RNA guanine-N7 methyltransferase activating subunit",
       "en": "RNA guanine-N7 methyltransferase activating subunit"
@@ -5444,7 +5444,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DJD3",
     "title": {
       "it": "RNA-binding motif protein, Y chromosome, family 1 member A1",
       "en": "RNA-binding motif protein, Y chromosome, family 1 member A1"
@@ -5473,7 +5473,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IUH3",
     "title": {
       "it": "RNA-binding protein 45",
       "en": "RNA-binding protein 45"
@@ -5511,7 +5511,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5RL73",
     "title": {
       "it": "RNA-binding protein 48",
       "en": "RNA-binding protein 48"
@@ -5540,7 +5540,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6ZRY4",
     "title": {
       "it": "RNA-binding protein with multiple splicing 2",
       "en": "RNA-binding protein with multiple splicing 2"
@@ -5570,7 +5570,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H633",
     "title": {
       "it": "Ribonuclease P protein subunit p21",
       "en": "Ribonuclease P protein subunit p21"
@@ -5602,7 +5602,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O75818",
     "title": {
       "it": "Ribonuclease P protein subunit p40",
       "en": "Ribonuclease P protein subunit p40"
@@ -5634,7 +5634,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NUL5",
     "title": {
       "it": "Shiftless antiviral inhibitor of ribosomal frameshifting protein",
       "en": "Shiftless antiviral inhibitor of ribosomal frameshifting protein"
@@ -5664,7 +5664,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NZ63",
     "title": {
       "it": "Splicing factor C9orf78",
       "en": "Splicing factor C9orf78"
@@ -5699,7 +5699,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P57052",
     "title": {
       "it": "Splicing regulator RBM11",
       "en": "Splicing regulator RBM11"
@@ -5730,7 +5730,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6IQ49",
     "title": {
       "it": "Splicing regulator SDE2",
       "en": "Splicing regulator SDE2"
@@ -5773,7 +5773,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6I9Y2",
     "title": {
       "it": "THO complex subunit 7",
       "en": "THO complex subunit 7"
@@ -5809,7 +5809,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5VWP2",
     "title": {
       "it": "Terminal nucleotidyltransferase 5C",
       "en": "Terminal nucleotidyltransferase 5C"
@@ -5844,7 +5844,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9BRJ7",
     "title": {
       "it": "Tudor-interacting repair regulator protein",
       "en": "Tudor-interacting repair regulator protein"
@@ -5877,7 +5877,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P21128",
     "title": {
       "it": "Uridylate-specific endoribonuclease",
       "en": "Uridylate-specific endoribonuclease"
@@ -5914,7 +5914,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IZ69",
     "title": {
       "it": "tRNA",
       "en": "tRNA"
@@ -5949,7 +5949,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NX07",
     "title": {
       "it": "tRNA selenocysteine 1-associated protein 1",
       "en": "tRNA selenocysteine 1-associated protein 1"
@@ -5980,7 +5980,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6UXT8",
     "title": {
       "it": "ALK and LTK ligand 1",
       "en": "ALK and LTK ligand 1"
@@ -6013,7 +6013,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6UX46",
     "title": {
       "it": "ALK and LTK ligand 2",
       "en": "ALK and LTK ligand 2"
@@ -6049,7 +6049,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DUB6",
     "title": {
       "it": "Alpha-amylase 1A",
       "en": "Alpha-amylase 1A"
@@ -6087,7 +6087,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DMC3",
     "title": {
       "it": "Apelin receptor early endogenous ligand",
       "en": "Apelin receptor early endogenous ligand"
@@ -6120,7 +6120,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8WTQ1",
     "title": {
       "it": "Beta-defensin 104",
       "en": "Beta-defensin 104"
@@ -6150,7 +6150,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N104",
     "title": {
       "it": "Beta-defensin 106",
       "en": "Beta-defensin 106"
@@ -6180,7 +6180,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O00230",
     "title": {
       "it": "Cortistatin",
       "en": "Cortistatin"
@@ -6213,7 +6213,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P12838",
     "title": {
       "it": "Defensin alpha 4",
       "en": "Defensin alpha 4"
@@ -6248,7 +6248,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O15263",
     "title": {
       "it": "Defensin beta 4A",
       "en": "Defensin beta 4A"
@@ -6282,7 +6282,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q69384",
     "title": {
       "it": "Endogenous retrovirus group K member 6 Env polyprotein",
       "en": "Endogenous retrovirus group K member 6 Env polyprotein"
@@ -6318,7 +6318,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P06312",
     "title": {
       "it": "Immunoglobulin kappa variable 4-1",
       "en": "Immunoglobulin kappa variable 4-1"
@@ -6356,7 +6356,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/K9M1U5",
     "title": {
       "it": "Interferon lambda-4",
       "en": "Interferon lambda-4"
@@ -6386,7 +6386,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P43627",
     "title": {
       "it": "Killer cell immunoglobulin-like receptor 2DL2",
       "en": "Killer cell immunoglobulin-like receptor 2DL2"
@@ -6423,7 +6423,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P43631",
     "title": {
       "it": "Killer cell immunoglobulin-like receptor 2DS2",
       "en": "Killer cell immunoglobulin-like receptor 2DS2"
@@ -6458,7 +6458,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P43632",
     "title": {
       "it": "Killer cell immunoglobulin-like receptor 2DS4",
       "en": "Killer cell immunoglobulin-like receptor 2DS4"
@@ -6491,7 +6491,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N6C8",
     "title": {
       "it": "Leukocyte immunoglobulin-like receptor subfamily A member 3",
       "en": "Leukocyte immunoglobulin-like receptor subfamily A member 3"
@@ -6526,7 +6526,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O75022",
     "title": {
       "it": "Leukocyte immunoglobulin-like receptor subfamily B member 3",
       "en": "Leukocyte immunoglobulin-like receptor subfamily B member 3"
@@ -6564,7 +6564,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P31995",
     "title": {
       "it": "Low affinity immunoglobulin gamma Fc region receptor II-c",
       "en": "Low affinity immunoglobulin gamma Fc region receptor II-c"
@@ -6602,7 +6602,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DP58",
     "title": {
       "it": "Ly-6/neurotoxin-like protein 1",
       "en": "Ly-6/neurotoxin-like protein 1"
@@ -6636,7 +6636,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UMZ3",
     "title": {
       "it": "Phosphatidylinositol phosphatase PTPRQ",
       "en": "Phosphatidylinositol phosphatase PTPRQ"
@@ -6676,7 +6676,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O15130",
     "title": {
       "it": "Pro-FMRFamide-related neuropeptide FF",
       "en": "Pro-FMRFamide-related neuropeptide FF"
@@ -6705,7 +6705,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6PRD1",
     "title": {
       "it": "Probable G protein-coupled receptor 179",
       "en": "Probable G protein-coupled receptor 179"
@@ -6747,7 +6747,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6UWK7",
     "title": {
       "it": "Protein GPR15LG",
       "en": "Protein GPR15LG"
@@ -6782,7 +6782,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DP57",
     "title": {
       "it": "Secreted Ly-6/uPAR domain-containing protein 2",
       "en": "Secreted Ly-6/uPAR domain-containing protein 2"
@@ -6809,7 +6809,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P09683",
     "title": {
       "it": "Secretin",
       "en": "Secretin"
@@ -6842,7 +6842,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/W5XKT8",
     "title": {
       "it": "Sperm acrosome membrane-associated protein 6",
       "en": "Sperm acrosome membrane-associated protein 6"
@@ -6876,7 +6876,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/A6ND01",
     "title": {
       "it": "Sperm-egg fusion protein Juno",
       "en": "Sperm-egg fusion protein Juno"
@@ -6915,7 +6915,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q3KNT9",
     "title": {
       "it": "Sperm-egg fusion protein TMEM95",
       "en": "Sperm-egg fusion protein TMEM95"
@@ -6946,7 +6946,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/M5A8F1",
     "title": {
       "it": "Suppressyn",
       "en": "Suppressyn"
@@ -6975,7 +6975,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DTU4",
     "title": {
       "it": "T cell receptor beta chain MC.7.G5",
       "en": "T cell receptor beta chain MC.7.G5"
@@ -7011,7 +7011,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86UU9",
     "title": {
       "it": "Tachykinin-4",
       "en": "Tachykinin-4"
@@ -7040,7 +7040,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96RP3",
     "title": {
       "it": "Urocortin-2",
       "en": "Urocortin-2"
@@ -7067,7 +7067,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P63261",
     "title": {
       "it": "Actin, cytoplasmic 2",
       "en": "Actin, cytoplasmic 2"
@@ -7109,7 +7109,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P02452",
     "title": {
       "it": "Collagen alpha-1(I) chain",
       "en": "Collagen alpha-1(I) chain"
@@ -7156,7 +7156,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P02458",
     "title": {
       "it": "Collagen alpha-1(II) chain",
       "en": "Collagen alpha-1(II) chain"
@@ -7201,7 +7201,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P08123",
     "title": {
       "it": "Collagen alpha-2(I) chain",
       "en": "Collagen alpha-2(I) chain"
@@ -7246,7 +7246,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P13645",
     "title": {
       "it": "Keratin, type I cytoskeletal 10",
       "en": "Keratin, type I cytoskeletal 10"
@@ -7284,7 +7284,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P02533",
     "title": {
       "it": "Keratin, type I cytoskeletal 14",
       "en": "Keratin, type I cytoskeletal 14"
@@ -7321,7 +7321,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P08727",
     "title": {
       "it": "Keratin, type I cytoskeletal 19",
       "en": "Keratin, type I cytoskeletal 19"
@@ -7356,7 +7356,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P13647",
     "title": {
       "it": "Keratin, type II cytoskeletal 5",
       "en": "Keratin, type II cytoskeletal 5"
@@ -7388,7 +7388,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P08729",
     "title": {
       "it": "Keratin, type II cytoskeletal 7",
       "en": "Keratin, type II cytoskeletal 7"
@@ -7424,7 +7424,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P05787",
     "title": {
       "it": "Keratin, type II cytoskeletal 8",
       "en": "Keratin, type II cytoskeletal 8"
@@ -7466,7 +7466,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P35749",
     "title": {
       "it": "Myosin-11",
       "en": "Myosin-11"
@@ -7506,7 +7506,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P36006",
     "title": {
       "it": "Myosin-3",
       "en": "Myosin-3"
@@ -7542,7 +7542,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q04439",
     "title": {
       "it": "Myosin-5",
       "en": "Myosin-5"
@@ -7577,7 +7577,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8NEV4",
     "title": {
       "it": "Myosin-IIIa",
       "en": "Myosin-IIIa"
@@ -7620,7 +7620,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q71U36",
     "title": {
       "it": "Tubulin alpha-1A chain",
       "en": "Tubulin alpha-1A chain"
@@ -7667,7 +7667,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P68363",
     "title": {
       "it": "Tubulin alpha-1B chain",
       "en": "Tubulin alpha-1B chain"
@@ -7709,7 +7709,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P07437",
     "title": {
       "it": "Tubulin beta chain",
       "en": "Tubulin beta chain"
@@ -7751,7 +7751,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13885",
     "title": {
       "it": "Tubulin beta-2A chain",
       "en": "Tubulin beta-2A chain"
@@ -7791,7 +7791,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13509",
     "title": {
       "it": "Tubulin beta-3 chain",
       "en": "Tubulin beta-3 chain"
@@ -7833,7 +7833,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P68371",
     "title": {
       "it": "Tubulin beta-4B chain",
       "en": "Tubulin beta-4B chain"
@@ -7876,7 +7876,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8NHH1",
     "title": {
       "it": "Tubulin polyglutamylase TTLL11",
       "en": "Tubulin polyglutamylase TTLL11"
@@ -7911,7 +7911,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q15814",
     "title": {
       "it": "Tubulin-specific chaperone C",
       "en": "Tubulin-specific chaperone C"
@@ -7942,7 +7942,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q15813",
     "title": {
       "it": "Tubulin-specific chaperone E",
       "en": "Tubulin-specific chaperone E"
@@ -7982,7 +7982,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13459",
     "title": {
       "it": "Unconventional myosin-IXb",
       "en": "Unconventional myosin-IXb"
@@ -8024,7 +8024,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N1T3",
     "title": {
       "it": "Unconventional myosin-Ih",
       "en": "Unconventional myosin-Ih"
@@ -8057,7 +8057,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UM54",
     "title": {
       "it": "Unconventional myosin-VI",
       "en": "Unconventional myosin-VI"
@@ -8110,7 +8110,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6PIF6",
     "title": {
       "it": "Unconventional myosin-VIIb",
       "en": "Unconventional myosin-VIIb"
@@ -8149,7 +8149,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y4I1",
     "title": {
       "it": "Unconventional myosin-Va",
       "en": "Unconventional myosin-Va"
@@ -8190,7 +8190,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NQX4",
     "title": {
       "it": "Unconventional myosin-Vc",
       "en": "Unconventional myosin-Vc"
@@ -8227,7 +8227,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9HD67",
     "title": {
       "it": "Unconventional myosin-X",
       "en": "Unconventional myosin-X"
@@ -8273,7 +8273,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UKN7",
     "title": {
       "it": "Unconventional myosin-XV",
       "en": "Unconventional myosin-XV"
@@ -8314,7 +8314,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96JP2",
     "title": {
       "it": "Unconventional myosin-XVB",
       "en": "Unconventional myosin-XVB"
@@ -8347,7 +8347,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UHQ4",
     "title": {
       "it": "B-cell receptor-associated protein 29",
       "en": "B-cell receptor-associated protein 29"
@@ -8383,7 +8383,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9NY37",
     "title": {
       "it": "Bile acid-sensitive ion channel",
       "en": "Bile acid-sensitive ion channel"
@@ -8420,7 +8420,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UBI1",
     "title": {
       "it": "COMM domain-containing protein 3",
       "en": "COMM domain-containing protein 3"
@@ -8455,7 +8455,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IU99",
     "title": {
       "it": "Calcium homeostasis modulator protein 1",
       "en": "Calcium homeostasis modulator protein 1"
@@ -8498,7 +8498,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5JW98",
     "title": {
       "it": "Calcium homeostasis modulator protein 4",
       "en": "Calcium homeostasis modulator protein 4"
@@ -8535,7 +8535,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8N7U6",
     "title": {
       "it": "EF-hand domain-containing family member B",
       "en": "EF-hand domain-containing family member B"
@@ -8572,7 +8572,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9BSA9",
     "title": {
       "it": "Endosomal/lysosomal proton channel TMEM175",
       "en": "Endosomal/lysosomal proton channel TMEM175"
@@ -8617,7 +8617,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H4I9",
     "title": {
       "it": "Essential MCU regulator, mitochondrial",
       "en": "Essential MCU regulator, mitochondrial"
@@ -8655,7 +8655,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96DB9",
     "title": {
       "it": "FXYD domain-containing ion transport regulator 5",
       "en": "FXYD domain-containing ion transport regulator 5"
@@ -8695,7 +8695,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9H0Q3",
     "title": {
       "it": "FXYD domain-containing ion transport regulator 6",
       "en": "FXYD domain-containing ion transport regulator 6"
@@ -8736,7 +8736,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q92806",
     "title": {
       "it": "G protein-activated inward rectifier potassium channel 3",
       "en": "G protein-activated inward rectifier potassium channel 3"
@@ -8769,7 +8769,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8NFT2",
     "title": {
       "it": "Metalloreductase STEAP2",
       "en": "Metalloreductase STEAP2"
@@ -8816,7 +8816,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q687X5",
     "title": {
       "it": "Metalloreductase STEAP4",
       "en": "Metalloreductase STEAP4"
@@ -8861,7 +8861,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8IZK6",
     "title": {
       "it": "Mucolipin-2",
       "en": "Mucolipin-2"
@@ -8907,7 +8907,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8WWT9",
     "title": {
       "it": "Na(+)/dicarboxylate cotransporter 3",
       "en": "Na(+)/dicarboxylate cotransporter 3"
@@ -8948,7 +8948,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O00168",
     "title": {
       "it": "Phospholemman",
       "en": "Phospholemman"
@@ -8988,7 +8988,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q96JA3",
     "title": {
       "it": "Pleckstrin homology domain-containing family A member 8",
       "en": "Pleckstrin homology domain-containing family A member 8"
@@ -9020,7 +9020,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9HB14",
     "title": {
       "it": "Potassium channel subfamily K member 13",
       "en": "Potassium channel subfamily K member 13"
@@ -9061,7 +9061,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O95069",
     "title": {
       "it": "Potassium channel subfamily K member 2",
       "en": "Potassium channel subfamily K member 2"
@@ -9104,7 +9104,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y257",
     "title": {
       "it": "Potassium channel subfamily K member 6",
       "en": "Potassium channel subfamily K member 6"
@@ -9145,7 +9145,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/A8MYU2",
     "title": {
       "it": "Potassium channel subfamily U member 1",
       "en": "Potassium channel subfamily U member 1"
@@ -9184,7 +9184,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O14863",
     "title": {
       "it": "Probable proton-coupled zinc antiporter SLC30A4",
       "en": "Probable proton-coupled zinc antiporter SLC30A4"
@@ -9220,7 +9220,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y6M5",
     "title": {
       "it": "Proton-coupled zinc antiporter SLC30A1",
       "en": "Proton-coupled zinc antiporter SLC30A1"
@@ -9272,7 +9272,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6P5S7",
     "title": {
       "it": "Ribonuclease kappa",
       "en": "Ribonuclease kappa"
@@ -9312,7 +9312,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9Y6D0",
     "title": {
       "it": "Selenoprotein K",
       "en": "Selenoprotein K"
@@ -9348,7 +9348,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q86UD5",
     "title": {
       "it": "Sodium/hydrogen exchanger 9B2",
       "en": "Sodium/hydrogen exchanger 9B2"
@@ -9394,7 +9394,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P54710",
     "title": {
       "it": "Sodium/potassium-transporting ATPase subunit gamma",
       "en": "Sodium/potassium-transporting ATPase subunit gamma"
@@ -9434,7 +9434,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9BZW2",
     "title": {
       "it": "Solute carrier family 13 member 1",
       "en": "Solute carrier family 13 member 1"
@@ -9473,7 +9473,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q13183",
     "title": {
       "it": "Solute carrier family 13 member 2",
       "en": "Solute carrier family 13 member 2"
@@ -9509,7 +9509,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q4G0N8",
     "title": {
       "it": "Solute carrier family 9 member C1",
       "en": "Solute carrier family 9 member C1"
@@ -9549,7 +9549,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/O15342",
     "title": {
       "it": "V-type proton ATPase subunit e 1",
       "en": "V-type proton ATPase subunit e 1"
@@ -9584,7 +9584,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6ZMH5",
     "title": {
       "it": "Zinc transporter ZIP5",
       "en": "Zinc transporter ZIP5"
@@ -9623,7 +9623,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P17455",
     "title": {
       "it": "Capsid protein VP1",
       "en": "Capsid protein VP1"
@@ -9669,7 +9669,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P08557",
     "title": {
       "it": "DNA circularization protein N",
       "en": "DNA circularization protein N"
@@ -9704,7 +9704,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P63172",
     "title": {
       "it": "Dynein light chain Tctex-type 1",
       "en": "Dynein light chain Tctex-type 1"
@@ -9749,7 +9749,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q66814",
     "title": {
       "it": "Envelope glycoprotein",
       "en": "Envelope glycoprotein"
@@ -9799,7 +9799,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P05883",
     "title": {
       "it": "Envelope glycoprotein gp160",
       "en": "Envelope glycoprotein gp160"
@@ -9849,7 +9849,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P20872",
     "title": {
       "it": "Envelope glycoprotein gp160",
       "en": "Envelope glycoprotein gp160"
@@ -9899,7 +9899,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P19503",
     "title": {
       "it": "Envelope glycoprotein gp160",
       "en": "Envelope glycoprotein gp160"
@@ -9942,7 +9942,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P08810",
     "title": {
       "it": "Envelope glycoprotein gp160",
       "en": "Envelope glycoprotein gp160"
@@ -9986,7 +9986,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/H2AM12",
     "title": {
       "it": "Envelopment polyprotein",
       "en": "Envelopment polyprotein"
@@ -10027,7 +10027,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/R4V2Q5",
     "title": {
       "it": "Envelopment polyprotein",
       "en": "Envelopment polyprotein"
@@ -10072,7 +10072,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0DXO9",
     "title": {
       "it": "G protein-coupled receptor BILF1",
       "en": "G protein-coupled receptor BILF1"
@@ -10112,7 +10112,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P14349",
     "title": {
       "it": "Gag polyprotein",
       "en": "Gag polyprotein"
@@ -10153,7 +10153,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P04022",
     "title": {
       "it": "Gag polyprotein",
       "en": "Gag polyprotein"
@@ -10194,7 +10194,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q5EG65",
     "title": {
       "it": "Genome polyprotein",
       "en": "Genome polyprotein"
@@ -10261,7 +10261,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P0C2X0",
     "title": {
       "it": "Glycoprotein G",
       "en": "Glycoprotein G"
@@ -10306,7 +10306,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9PWW3",
     "title": {
       "it": "Large envelope protein",
       "en": "Large envelope protein"
@@ -10348,7 +10348,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q913A6",
     "title": {
       "it": "Large envelope protein",
       "en": "Large envelope protein"
@@ -10390,7 +10390,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q8LTE2",
     "title": {
       "it": "Maturation protein A2",
       "en": "Maturation protein A2"
@@ -10424,7 +10424,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P49790",
     "title": {
       "it": "Nuclear pore complex protein Nup153",
       "en": "Nuclear pore complex protein Nup153"
@@ -10474,7 +10474,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P15198",
     "title": {
       "it": "Phosphoprotein",
       "en": "Phosphoprotein"
@@ -10515,7 +10515,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9IPJ8",
     "title": {
       "it": "Phosphoprotein",
       "en": "Phosphoprotein"
@@ -10559,7 +10559,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P16286",
     "title": {
       "it": "Phosphoprotein",
       "en": "Phosphoprotein"
@@ -10600,7 +10600,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q0GBY3",
     "title": {
       "it": "Phosphoprotein",
       "en": "Phosphoprotein"
@@ -10641,7 +10641,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q15365",
     "title": {
       "it": "Poly(rC)-binding protein 1",
       "en": "Poly(rC)-binding protein 1"
@@ -10679,7 +10679,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q15366",
     "title": {
       "it": "Poly(rC)-binding protein 2",
       "en": "Poly(rC)-binding protein 2"
@@ -10723,7 +10723,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6IUF7",
     "title": {
       "it": "Pre-glycoprotein polyprotein GP complex",
       "en": "Pre-glycoprotein polyprotein GP complex"
@@ -10768,7 +10768,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P03274",
     "title": {
       "it": "Pre-protein VI",
       "en": "Pre-protein VI"
@@ -10812,7 +10812,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P24937",
     "title": {
       "it": "Pre-protein VI",
       "en": "Pre-protein VI"
@@ -10853,7 +10853,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q9UQF0",
     "title": {
       "it": "Syncytin-1",
       "en": "Syncytin-1"
@@ -10892,7 +10892,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/P60508",
     "title": {
       "it": "Syncytin-2",
       "en": "Syncytin-2"
@@ -10930,7 +10930,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/Q6QGE7",
     "title": {
       "it": "Tape measure protein pb2 precursor",
       "en": "Tape measure protein pb2 precursor"
@@ -10971,7 +10971,7 @@
   },
   {
     "type": "protein",
-    "url": "#/catalog",
+    "url": "#/explorer/A0A1L4BKS3",
     "title": {
       "it": "Terminase, large subunit",
       "en": "Terminase, large subunit"

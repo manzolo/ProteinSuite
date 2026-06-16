@@ -58,6 +58,12 @@ export function createSearch({ input, results, i18n }) {
 
   input?.addEventListener("input", () => run(input.value));
   input?.addEventListener("focus", () => run(input.value));
+  results?.addEventListener("click", (event) => {
+    if (event.target.closest(".search-result")) {
+      close();
+      input.value = "";
+    }
+  });
   document.addEventListener("click", (event) => {
     if (!results.contains(event.target) && event.target !== input) {
       close();
