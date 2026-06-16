@@ -14,7 +14,8 @@
     "lab": "Protein Lab",
     "fasta": "FASTA Manager",
     "statistics": "Statistiche",
-    "knowledge": "Knowledge Center"
+    "knowledge": "Knowledge Center",
+    "about": "Crediti"
   },
   "search": {
     "label": "Cerca",
@@ -178,5 +179,30 @@
     "data": "Dati: UniProtKB (CC BY 4.0) · RCSB PDB · proprietà calcolate localmente",
     "disclaimer": "Progetto educativo indipendente, non affiliato alle istituzioni citate.",
     "notice": "Crediti e licenze"
+  },
+  "about": {
+    "title": "Crediti e licenze",
+    "lead": "Protein Suite è un progetto educativo indipendente, aperto e gratuito. Qui trovi chi lo ha ideato, da dove vengono i dati scientifici e con quali licenze puoi riusarli.",
+    "creditsTitle": "Chi c'è dietro",
+    "ideaLabel": "Idea e ispirazione scientifica",
+    "ideaValue": "Massimo Bianchini — CNR-IFAC, Istituto di Fisica Applicata \"Nello Carrara\" (Consiglio Nazionale delle Ricerche)",
+    "techLabel": "Sviluppo, architettura e dati",
+    "techValue": "Andrea Manzi (manzolo)",
+    "contributeLabel": "Contributi",
+    "contributeValue": "Ogni contributo è benvenuto, anche senza saper programmare: segnalazioni, correzioni, traduzioni e idee.",
+    "contributeCta": "Apri una segnalazione su GitHub",
+    "sourcesTitle": "Fonti scientifiche",
+    "sourcesLead": "I dati provengono da banche dati pubbliche e autorevoli:",
+    "licenseTitle": "Licenze",
+    "codeLicenseLabel": "Codice",
+    "codeLicenseValue": "Il codice originale (HTML, CSS, JavaScript, struttura dati e documentazione) è rilasciato sotto licenza MIT.",
+    "dataLicenseLabel": "Dati del catalogo",
+    "dataLicenseValue": "I testi di funzione e localizzazione sono adattati da UniProtKB sotto licenza Creative Commons Attribution 4.0 (CC BY 4.0), con citazioni bibliografiche inline rimosse per leggibilità.",
+    "constantsLabel": "Costanti del Protein Lab",
+    "constantsValue": "Le scale e le matrici dei calcoli citano la fonte primaria: Kyte & Doolittle (1982), Lobry (1994), Guruprasad et al. (1990) e set pKa ExPASy/EMBOSS.",
+    "disclaimerTitle": "Avvertenze",
+    "disclaimerValue": "Progetto educativo indipendente, non affiliato né approvato da UniProt, RCSB PDB, NCBI, EMBL-EBI o AlphaFold Database. I valori calcolati sono stime didattiche, non destinate a usi clinici o di ricerca.",
+    "fullNoticeCta": "Note complete e attribuzioni (NOTICE)",
+    "fullDataCta": "Dettagli sulle licenze dei dati (DATA_LICENSE)"
   }
 }

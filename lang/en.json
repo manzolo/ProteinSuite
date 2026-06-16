@@ -14,7 +14,8 @@
     "lab": "Protein Lab",
     "fasta": "FASTA Manager",
     "statistics": "Statistics Center",
-    "knowledge": "Knowledge Center"
+    "knowledge": "Knowledge Center",
+    "about": "Credits"
   },
   "search": {
     "label": "Search",
@@ -178,5 +179,30 @@
     "data": "Data: UniProtKB (CC BY 4.0) · RCSB PDB · properties computed locally",
     "disclaimer": "Independent educational project, not affiliated with the referenced institutions.",
     "notice": "Credits and licenses"
+  },
+  "about": {
+    "title": "Credits and licenses",
+    "lead": "Protein Suite is an independent, open and free educational project. Here you can see who created it, where the scientific data comes from, and under which licenses you can reuse it.",
+    "creditsTitle": "Who's behind it",
+    "ideaLabel": "Idea and scientific inspiration",
+    "ideaValue": "Massimo Bianchini — CNR-IFAC, \"Nello Carrara\" Institute of Applied Physics (Italian National Research Council)",
+    "techLabel": "Development, architecture and data",
+    "techValue": "Andrea Manzi (manzolo)",
+    "contributeLabel": "Contributions",
+    "contributeValue": "Every contribution is welcome, even if you can't code: reports, fixes, translations and ideas.",
+    "contributeCta": "Open an issue on GitHub",
+    "sourcesTitle": "Scientific sources",
+    "sourcesLead": "Data comes from public, authoritative databases:",
+    "licenseTitle": "Licenses",
+    "codeLicenseLabel": "Code",
+    "codeLicenseValue": "The original code (HTML, CSS, JavaScript, data structure and documentation) is released under the MIT license.",
+    "dataLicenseLabel": "Catalog data",
+    "dataLicenseValue": "Function and subcellular-location texts are adapted from UniProtKB under the Creative Commons Attribution 4.0 license (CC BY 4.0), with inline literature citations removed for readability.",
+    "constantsLabel": "Protein Lab constants",
+    "constantsValue": "The scales and matrices used in calculations cite their primary source: Kyte & Doolittle (1982), Lobry (1994), Guruprasad et al. (1990) and ExPASy/EMBOSS pKa sets.",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerValue": "Independent educational project, not affiliated with or endorsed by UniProt, RCSB PDB, NCBI, EMBL-EBI or AlphaFold Database. Computed values are didactic estimates, not intended for clinical or research use.",
+    "fullNoticeCta": "Full notice and attributions (NOTICE)",
+    "fullDataCta": "Data license details (DATA_LICENSE)"
   }
 }

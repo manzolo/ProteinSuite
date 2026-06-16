@@ -780,3 +780,45 @@ textarea {
 .app-footer a {
   color: var(--accent-strong);
 }
+
+.about-grid {
+  align-items: start;
+  margin-bottom: 1rem;
+}
+
+.about-page .tool-panel {
+  margin-bottom: 1rem;
+}
+
+.about-page h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.about-dl {
+  margin: 0;
+  display: grid;
+  gap: 0.25rem 0;
+}
+
+.about-dl dt {
+  font-weight: 700;
+  color: var(--accent-strong);
+  margin-top: 0.6rem;
+}
+
+.about-dl dt:first-child {
+  margin-top: 0;
+}
+
+.about-dl dd {
+  margin: 0;
+  color: var(--text);
+}
+
+.about-sources {
+  margin: 0.4rem 0 0;
+  padding-left: 1.1rem;
+  display: grid;
+  gap: 0.25rem;
+}

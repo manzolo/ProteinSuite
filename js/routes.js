@@ -6,6 +6,7 @@ import { labAfterRender, labView } from "./views/lab.js";
 import { statisticsView } from "./views/statistics.js";
 import { fastaAfterRender, fastaView } from "./views/fasta.js";
 import { knowledgeAfterRender, knowledgeView } from "./views/knowledge.js";
+import { aboutView } from "./views/about.js";
 
 export const routes = {
   dashboard: {
@@ -40,5 +41,9 @@ export const routes = {
     title: (i18n) => i18n.t("nav.knowledge"),
     render: knowledgeView,
     afterRender: knowledgeAfterRender
+  },
+  about: {
+    title: (i18n) => i18n.t("about.title"),
+    render: aboutView
   }
 };
