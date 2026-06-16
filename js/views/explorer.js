@@ -61,7 +61,7 @@ function detailCard(protein, i18n) {
       <div class="tag-list">${protein.keywords.slice(0, 18).map((keyword) => `<span class="tag">${escapeHtml(keyword)}</span>`).join("")}</div>
       <div class="actions">
         <button class="button" type="button" data-load-live="${escapeHtml(protein.uniprotId)}">${i18n.t("explorer.loadLive")}</button>
-        <a class="button secondary" href="#/lab">${i18n.t("explorer.sendToLab")}</a>
+        <a class="button secondary" href="#/lab/${encodeURIComponent(protein.uniprotId)}">${i18n.t("explorer.sendToLab")}</a>
       </div>
     </article>
   `;

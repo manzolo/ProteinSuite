@@ -1,9 +1,22 @@
 import { analyzeSequence, parseFasta } from "../core/protein-analysis.js";
 
 let constants = null;
+let proteins = null;
 
 const example = `>sp|P42212|GFP_AEQVI Green fluorescent protein
 MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK`;
+
+async function ensureProteins() {
+  if (!proteins) {
+    const response = await fetch("data/proteins.json");
+    proteins = response.ok ? await response.json() : [];
+  }
+  return proteins;
+}
+
+function buildFasta(protein) {
+  return `>${protein.uniprotId} ${protein.name} OS=${protein.organism}\n${protein.sequence}`;
+}
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -84,13 +97,25 @@ async function runAnalysis(root, i18n) {
     : `<p class="muted">${i18n.t("lab.empty")}</p>`;
 }
 
-export async function labView({ i18n }) {
+export async function labView({ i18n, params }) {
+  let initial = example;
+  let loadedNotice = "";
+  const accession = params?.[0];
+  if (accession) {
+    const list = await ensureProteins();
+    const protein = list.find((item) => item.uniprotId === accession);
+    if (protein?.sequence) {
+      initial = buildFasta(protein);
+      loadedNotice = `<p class="muted lab-loaded">${i18n.t("lab.loadedFrom").replace("{name}", protein.name).replace("{id}", protein.uniprotId)}</p>`;
+    }
+  }
   return `
     <section class="page" aria-labelledby="lab-title">
       <header class="page-header">
         <h1 id="lab-title">${i18n.t("lab.title")}</h1>
         <p>${i18n.t("lab.subtitle")}</p>
       </header>
+      ${loadedNotice}
 
       <section class="tool-panel">
         <div class="form-grid">
@@ -105,7 +130,7 @@ export async function labView({ i18n }) {
         </div>
         <label class="field" style="margin-top: 0.8rem">
           <span>${i18n.t("lab.sequence")}</span>
-          <textarea data-lab-sequence spellcheck="false">${example}</textarea>
+          <textarea data-lab-sequence spellcheck="false">${escapeHtml(initial)}</textarea>
         </label>
         <div class="actions">
           <button class="button" type="button" data-lab-run>${i18n.t("lab.analyze")}</button>

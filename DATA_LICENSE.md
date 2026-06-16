@@ -19,6 +19,7 @@ Original HTML, CSS, JavaScript, JSON structure, and documentation authored for P
 - keywords returned by UniProt
 - PDB cross-reference IDs
 - outbound links to UniProt and RCSB PDB
+- canonical amino acid sequence (`sequence`)
 - function text (`function`) and subcellular-location text (`localization`)
 
 UniProtKB data are distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Accordingly, the `function` and `localization` fields are **adapted from UniProtKB under CC BY 4.0**: the source narrative text was retrieved on 2026-06-16 and lightly edited by removing inline literature/evidence citations (e.g. `(PubMed:...)`, `(By similarity)`) for readability. This adaptation is indicated per record in the `source.textLicense` field. Source language is English (`source.textLanguage: "en"`); UI labels are bilingual.

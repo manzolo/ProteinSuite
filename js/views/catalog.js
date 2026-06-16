@@ -99,6 +99,7 @@ function renderTable(root) {
               <span class="muted block">${escapeHtml(protein.gene)} · ${escapeHtml(protein.uniprotId)}</span>
               <span class="block">${escapeHtml(protein.description)}</span>
               <a class="text-link" href="#/explorer/${encodeURIComponent(protein.uniprotId)}">${i18n.t("catalog.openExplorer")}</a>
+              <a class="text-link" href="#/lab/${encodeURIComponent(protein.uniprotId)}">${i18n.t("catalog.openLab")}</a>
               <button class="text-button" type="button" data-live-uniprot="${escapeHtml(protein.uniprotId)}">${i18n.t("catalog.liveDetails")}</button>
             </td>
             <td><span class="tag">${escapeHtml(protein.category)}</span></td>

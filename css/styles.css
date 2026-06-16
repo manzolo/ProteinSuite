@@ -822,3 +822,11 @@ textarea {
   display: grid;
   gap: 0.25rem;
 }
+
+.lab-loaded {
+  margin: -0.6rem 0 1rem;
+  padding: 0.5rem 0.75rem;
+  border-left: 3px solid var(--accent);
+  background: var(--surface-2);
+  border-radius: 0 6px 6px 0;
+}

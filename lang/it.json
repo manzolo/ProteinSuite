@@ -67,7 +67,8 @@
       "organism": "Organismo",
       "length": "Lunghezza",
       "references": "Riferimenti"
-    }
+    },
+    "openLab": "Analizza nel Lab"
   },
   "explorer": {
     "title": "Protein Explorer",
@@ -129,7 +130,8 @@
     "sourceCharge": "Carica netta e pI: curva di titolazione con pKa dichiarati in stile ExPASy/EMBOSS.",
     "sourceHydro": "Idrofobicità: scala Kyte-Doolittle, J. Mol. Biol. 157:105-132 (1982).",
     "sourceAroma": "Aromaticità: frazione F/W/Y secondo Lobry (1994).",
-    "sourceInstability": "Instability index: Guruprasad, Reddy e Pandit (1990), matrice DIWV dichiarata in JSON."
+    "sourceInstability": "Instability index: Guruprasad, Reddy e Pandit (1990), matrice DIWV dichiarata in JSON.",
+    "loadedFrom": "Sequenza precaricata da: {name} ({id})"
   },
   "statistics": {
     "title": "Statistiche",

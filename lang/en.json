@@ -67,7 +67,8 @@
       "organism": "Organism",
       "length": "Length",
       "references": "References"
-    }
+    },
+    "openLab": "Analyze in Lab"
   },
   "explorer": {
     "title": "Protein Explorer",
@@ -129,7 +130,8 @@
     "sourceCharge": "Net charge and pI: titration curve with declared ExPASy/EMBOSS-style pKa values.",
     "sourceHydro": "Hydrophobicity: Kyte-Doolittle scale, J. Mol. Biol. 157:105-132 (1982).",
     "sourceAroma": "Aromaticity: F/W/Y fraction following Lobry (1994).",
-    "sourceInstability": "Instability index: Guruprasad, Reddy, and Pandit (1990), DIWV matrix declared in JSON."
+    "sourceInstability": "Instability index: Guruprasad, Reddy, and Pandit (1990), DIWV matrix declared in JSON.",
+    "loadedFrom": "Sequence preloaded from: {name} ({id})"
   },
   "statistics": {
     "title": "Statistics Center",
