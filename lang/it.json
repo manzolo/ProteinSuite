@@ -10,6 +10,7 @@
   "nav": {
     "dashboard": "Dashboard",
     "catalog": "Catalogo proteine",
+    "diseases": "Malattie genetiche",
     "explorer": "Protein Explorer",
     "lab": "Protein Lab",
     "fasta": "FASTA Manager",
@@ -19,7 +20,7 @@
   },
   "search": {
     "label": "Cerca",
-    "placeholder": "Cerca proteine, funzioni, documenti",
+    "placeholder": "Cerca proteine, malattie, funzioni, documenti",
     "noResults": "Nessun risultato"
   },
   "dashboard": {
@@ -69,6 +70,23 @@
       "references": "Riferimenti"
     },
     "openLab": "Analizza nel Lab"
+  },
+  "diseases": {
+    "title": "Malattie genetiche",
+    "subtitle": "Vista descrittiva separata dal Lab: collega gene, proteina difettosa, danno molecolare, decorso clinico e terapie senza calcoli biochimici.",
+    "filters": "Filtri malattie genetiche",
+    "search": "Ricerca",
+    "searchPlaceholder": "Nome malattia, gene, proteina, sintomi",
+    "status": "{count} di {total} malattie",
+    "noResults": "Nessuna malattia trovata.",
+    "flow": "Flusso gene-proteina-malattia",
+    "gene": "Gene",
+    "protein": "Proteina/enzima",
+    "damage": "Tipo di danno",
+    "disease": "Malattia",
+    "course": "Decorso",
+    "therapies": "Terapie",
+    "openCatalog": "Apri nel catalogo"
   },
   "explorer": {
     "title": "Protein Explorer",

@@ -1,6 +1,7 @@
 import { dashboardView } from "./views/dashboard.js";
 import { simpleView } from "./views/simple.js";
 import { catalogAfterRender, catalogView } from "./views/catalog.js";
+import { diseasesAfterRender, diseasesView } from "./views/diseases.js";
 import { explorerAfterRender, explorerView } from "./views/explorer.js";
 import { labAfterRender, labView } from "./views/lab.js";
 import { statisticsView } from "./views/statistics.js";
@@ -17,6 +18,11 @@ export const routes = {
     title: (i18n) => i18n.t("nav.catalog"),
     render: catalogView,
     afterRender: catalogAfterRender
+  },
+  diseases: {
+    title: (i18n) => i18n.t("nav.diseases"),
+    render: diseasesView,
+    afterRender: diseasesAfterRender
   },
   explorer: {
     title: (i18n) => i18n.t("nav.explorer"),

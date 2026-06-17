@@ -11563,5 +11563,170 @@
       "Zinc-finger",
       "Dystrophin (DMD) is a protein from Homo sapiens (Human), in the Structural category, assigned to the Dystrophin family. Anchors the extracellular matrix to the cytoskeleton via F-actin. Ligand for dystroglycan. Clinically, defects in DMD cause Duchenne and Becker muscular dystrophy."
     ]
+  },
+  {
+    "type": "disease",
+    "url": "#/diseases/spinal-muscular-atrophy",
+    "title": {
+      "it": "Atrofia muscolare spinale",
+      "en": "Spinal muscular atrophy"
+    },
+    "summary": {
+      "it": "SMN1 -> proteina SMN -> perdita di funzione e debolezza muscolare progressiva.",
+      "en": "SMN1 -> SMN protein -> loss of function and progressive muscle weakness."
+    },
+    "keywords": [
+      "SMN1",
+      "Q16637",
+      "SMA",
+      "atrofia muscolare spinale",
+      "spinal muscular atrophy",
+      "motoneuroni",
+      "motor neurons",
+      "ipotonia",
+      "hypotonia",
+      "debolezza muscolare",
+      "muscle weakness",
+      "nusinersen",
+      "risdiplam",
+      "onasemnogene abeparvovec"
+    ]
+  },
+  {
+    "type": "disease",
+    "url": "#/diseases/cystic-fibrosis",
+    "title": {
+      "it": "Fibrosi cistica",
+      "en": "Cystic fibrosis"
+    },
+    "summary": {
+      "it": "CFTR -> canale del cloruro -> muco denso, danno respiratorio e digestivo.",
+      "en": "CFTR -> chloride channel -> thick mucus with respiratory and digestive disease."
+    },
+    "keywords": [
+      "CFTR",
+      "P13569",
+      "fibrosi cistica",
+      "cystic fibrosis",
+      "mucoviscidosi",
+      "mucus",
+      "muco",
+      "infezioni respiratorie",
+      "lung infections",
+      "pancreas",
+      "ivacaftor",
+      "elexacaftor",
+      "tezacaftor"
+    ]
+  },
+  {
+    "type": "disease",
+    "url": "#/diseases/sickle-cell-disease",
+    "title": {
+      "it": "Anemia falciforme",
+      "en": "Sickle cell disease"
+    },
+    "summary": {
+      "it": "HBB -> beta-globina -> HbS, emolisi e crisi vaso-occlusive.",
+      "en": "HBB -> beta-globin -> HbS, hemolysis, and vaso-occlusive crises."
+    },
+    "keywords": [
+      "HBB",
+      "P68871",
+      "anemia falciforme",
+      "sickle cell disease",
+      "sickle cell anemia",
+      "HbS",
+      "emolisi",
+      "hemolysis",
+      "crisi vaso-occlusive",
+      "vaso-occlusive crises",
+      "dolore",
+      "pain",
+      "hydroxyurea",
+      "gene therapy"
+    ]
+  },
+  {
+    "type": "disease",
+    "url": "#/diseases/phenylketonuria",
+    "title": {
+      "it": "Fenilchetonuria",
+      "en": "Phenylketonuria"
+    },
+    "summary": {
+      "it": "PAH -> fenilalanina idrossilasi -> accumulo di fenilalanina.",
+      "en": "PAH -> phenylalanine hydroxylase -> phenylalanine accumulation."
+    },
+    "keywords": [
+      "PAH",
+      "P00439",
+      "fenilchetonuria",
+      "phenylketonuria",
+      "PKU",
+      "phenylalanine",
+      "fenilalanina",
+      "screening neonatale",
+      "newborn screening",
+      "diet",
+      "dieta",
+      "sapropterin",
+      "pegvaliase"
+    ]
+  },
+  {
+    "type": "disease",
+    "url": "#/diseases/tay-sachs-disease",
+    "title": {
+      "it": "Malattia di Tay-Sachs",
+      "en": "Tay-Sachs disease"
+    },
+    "summary": {
+      "it": "HEXA -> beta-esosaminidasi A -> accumulo GM2 e neurodegenerazione.",
+      "en": "HEXA -> beta-hexosaminidase A -> GM2 accumulation and neurodegeneration."
+    },
+    "keywords": [
+      "HEXA",
+      "P06865",
+      "Tay-Sachs",
+      "GM2",
+      "ganglioside",
+      "gangliosidosi",
+      "lysosome",
+      "lisosoma",
+      "neurodegeneration",
+      "neurodegenerazione",
+      "seizures",
+      "crisi epilettiche",
+      "cherry-red spot"
+    ]
+  },
+  {
+    "type": "disease",
+    "url": "#/diseases/duchenne-muscular-dystrophy",
+    "title": {
+      "it": "Distrofia muscolare di Duchenne",
+      "en": "Duchenne muscular dystrophy"
+    },
+    "summary": {
+      "it": "DMD -> distrofina -> perdita di funzione, debolezza progressiva e cardiomiopatia.",
+      "en": "DMD -> dystrophin -> loss of function, progressive weakness, and cardiomyopathy."
+    },
+    "keywords": [
+      "DMD",
+      "P11532",
+      "distrofia muscolare di Duchenne",
+      "Duchenne muscular dystrophy",
+      "dystrophin",
+      "distrofina",
+      "X-linked",
+      "legata all'X",
+      "debolezza muscolare",
+      "muscle weakness",
+      "cardiomyopathy",
+      "cardiomiopatia",
+      "exon skipping",
+      "corticosteroids"
+    ]
   }
 ]

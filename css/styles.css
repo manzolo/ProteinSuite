@@ -839,3 +839,77 @@ textarea {
   border-radius: 0 6px 6px 0;
   font-size: 0.9rem;
 }
+
+.disease-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.disease-card h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.25rem;
+}
+
+.disease-card-header {
+  align-items: start;
+}
+
+.disease-flow {
+  display: grid;
+  gap: 0.65rem;
+  margin: 1rem 0;
+  padding: 0;
+  list-style: none;
+}
+
+.disease-flow li {
+  display: grid;
+  grid-template-columns: minmax(7rem, 0.45fr) minmax(0, 1fr);
+  gap: 0.8rem;
+  align-items: start;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface-2);
+  padding: 0.7rem;
+}
+
+.disease-flow li + li {
+  position: relative;
+}
+
+.disease-flow li + li::before {
+  content: "↓";
+  position: absolute;
+  top: -0.78rem;
+  left: 1.25rem;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.disease-flow span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.disease-flow strong {
+  font-weight: 600;
+}
+
+.disease-links {
+  border-top: 1px solid var(--border);
+  padding-top: 0.8rem;
+}
+
+.disease-links .link-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.8rem;
+}
+
+@media (max-width: 620px) {
+  .disease-flow li {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}

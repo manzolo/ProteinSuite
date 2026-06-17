@@ -10,6 +10,7 @@
   "nav": {
     "dashboard": "Dashboard",
     "catalog": "Protein Catalog",
+    "diseases": "Genetic Diseases",
     "explorer": "Protein Explorer",
     "lab": "Protein Lab",
     "fasta": "FASTA Manager",
@@ -19,7 +20,7 @@
   },
   "search": {
     "label": "Search",
-    "placeholder": "Search proteins, functions, documents",
+    "placeholder": "Search proteins, diseases, functions, documents",
     "noResults": "No results"
   },
   "dashboard": {
@@ -69,6 +70,23 @@
       "references": "References"
     },
     "openLab": "Analyze in Lab"
+  },
+  "diseases": {
+    "title": "Genetic Diseases",
+    "subtitle": "Descriptive view separated from the Lab: connects gene, defective protein, molecular damage, clinical course, and therapies without biochemical calculations.",
+    "filters": "Genetic disease filters",
+    "search": "Search",
+    "searchPlaceholder": "Disease name, gene, protein, symptoms",
+    "status": "{count} of {total} diseases",
+    "noResults": "No disease found.",
+    "flow": "Gene-protein-disease flow",
+    "gene": "Gene",
+    "protein": "Protein/enzyme",
+    "damage": "Damage type",
+    "disease": "Disease",
+    "course": "Course",
+    "therapies": "Therapies",
+    "openCatalog": "Open in catalog"
   },
   "explorer": {
     "title": "Protein Explorer",

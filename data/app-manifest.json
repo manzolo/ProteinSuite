@@ -51,6 +51,30 @@
       }
     },
     {
+      "key": "diseases",
+      "url": "#/diseases",
+      "title": {
+        "it": "Malattie genetiche",
+        "en": "Genetic Diseases"
+      },
+      "summary": {
+        "it": "Schede descrittive che collegano gene, proteina difettosa, danno molecolare, decorso e terapie.",
+        "en": "Descriptive cards linking gene, defective protein, molecular damage, course, and therapies."
+      },
+      "capabilities": {
+        "it": [
+          "Vista separata dal Protein Lab, senza calcoli biochimici.",
+          "Filtro per nome, gene, proteina e descrizione clinica.",
+          "Collegamenti al catalogo proteico, UniProt e OMIM."
+        ],
+        "en": [
+          "Separate from Protein Lab, without biochemical calculations.",
+          "Filter by name, gene, protein, and clinical description.",
+          "Links to the protein catalog, UniProt, and OMIM."
+        ]
+      }
+    },
+    {
       "key": "lab",
       "url": "#/lab",
       "title": {

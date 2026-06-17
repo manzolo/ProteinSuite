@@ -1,0 +1,188 @@
+[
+  {
+    "id": "spinal-muscular-atrophy",
+    "name": {
+      "it": "Atrofia muscolare spinale",
+      "en": "Spinal muscular atrophy"
+    },
+    "gene": "SMN1",
+    "uniprotId": "Q16637",
+    "proteinName": "Survival motor neuron protein",
+    "inheritance": {
+      "it": "Autosomica recessiva",
+      "en": "Autosomal recessive"
+    },
+    "damageType": {
+      "it": "Delezione o variante biallelica con perdita di funzione di SMN1; riduzione della proteina SMN funzionale.",
+      "en": "Biallelic SMN1 deletion or variant causing loss of function and reduced functional SMN protein."
+    },
+    "course": {
+      "it": "Debolezza e atrofia muscolare progressive da perdita dei motoneuroni; gravità variabile da forme prenatali/infantili severe a forme adulte più lievi.",
+      "en": "Progressive muscle weakness and wasting from motor-neuron loss; severity ranges from severe prenatal/infantile forms to milder adult-onset forms."
+    },
+    "therapies": {
+      "it": "Terapie modificanti disponibili in base a indicazione e contesto clinico: nusinersen, risdiplam e terapia genica con onasemnogene abeparvovec; supporto respiratorio, nutrizionale, ortopedico e riabilitativo.",
+      "en": "Disease-modifying options are available depending on indication and clinical context: nusinersen, risdiplam, and onasemnogene abeparvovec gene therapy; respiratory, nutritional, orthopedic, and rehabilitation support."
+    },
+    "omim": "253300",
+    "links": {
+      "uniprot": "https://www.uniprot.org/uniprotkb/Q16637/entry",
+      "omim": "https://www.omim.org/entry/253300"
+    }
+  },
+  {
+    "id": "cystic-fibrosis",
+    "name": {
+      "it": "Fibrosi cistica",
+      "en": "Cystic fibrosis"
+    },
+    "gene": "CFTR",
+    "uniprotId": "P13569",
+    "proteinName": "Cystic fibrosis transmembrane conductance regulator",
+    "inheritance": {
+      "it": "Autosomica recessiva",
+      "en": "Autosomal recessive"
+    },
+    "damageType": {
+      "it": "Disfunzione del canale CFTR per varianti che possono alterare folding, traffico, gating o quantità della proteina.",
+      "en": "CFTR channel dysfunction from variants that can alter protein folding, trafficking, gating, or abundance."
+    },
+    "course": {
+      "it": "Malattia multisistemica con muco denso, infezioni respiratorie croniche, danno polmonare progressivo e frequenti problemi pancreatici/digestivi; decorso molto variabile.",
+      "en": "Multisystem disease with thick mucus, chronic respiratory infection, progressive lung damage, and frequent pancreatic/digestive problems; course is highly variable."
+    },
+    "therapies": {
+      "it": "Terapie di supporto respiratorio, antibiotiche, nutrizionali ed enzimi pancreatici; modulatori CFTR specifici per genotipo, incluse combinazioni a base di ivacaftor quando indicate. Nessuna singola terapia è risolutiva per tutti i genotipi.",
+      "en": "Respiratory, antibiotic, nutritional, and pancreatic-enzyme support; genotype-specific CFTR modulators, including ivacaftor-based combinations when indicated. No single therapy is curative for all genotypes."
+    },
+    "omim": "219700",
+    "links": {
+      "uniprot": "https://www.uniprot.org/uniprotkb/P13569/entry",
+      "omim": "https://www.omim.org/entry/219700"
+    }
+  },
+  {
+    "id": "sickle-cell-disease",
+    "name": {
+      "it": "Anemia falciforme",
+      "en": "Sickle cell disease"
+    },
+    "gene": "HBB",
+    "uniprotId": "P68871",
+    "proteinName": "Hemoglobin subunit beta",
+    "inheritance": {
+      "it": "Autosomica recessiva",
+      "en": "Autosomal recessive"
+    },
+    "damageType": {
+      "it": "Variante strutturale della beta-globina, tipicamente HbS, che favorisce polimerizzazione dell'emoglobina deossigenata, falcizzazione eritrocitaria ed emolisi.",
+      "en": "Structural beta-globin variant, typically HbS, that promotes polymerization of deoxygenated hemoglobin, red-cell sickling, and hemolysis."
+    },
+    "course": {
+      "it": "Anemia emolitica cronica con crisi vaso-occlusive dolorose, rischio di infezioni, ictus e danno d'organo; gravità variabile.",
+      "en": "Chronic hemolytic anemia with painful vaso-occlusive crises, infection risk, stroke, and organ damage; severity varies."
+    },
+    "therapies": {
+      "it": "Idrossiurea, trasfusioni, prevenzione e trattamento delle complicanze, trapianto di cellule staminali ematopoietiche per pazienti selezionati; terapie cellulari/geniche approvate per alcuni pazienti idonei.",
+      "en": "Hydroxyurea, transfusions, prevention and treatment of complications, hematopoietic stem-cell transplant for selected patients; approved cell/gene therapies for some eligible patients."
+    },
+    "omim": "603903",
+    "links": {
+      "uniprot": "https://www.uniprot.org/uniprotkb/P68871/entry",
+      "omim": "https://www.omim.org/entry/603903"
+    }
+  },
+  {
+    "id": "phenylketonuria",
+    "name": {
+      "it": "Fenilchetonuria",
+      "en": "Phenylketonuria"
+    },
+    "gene": "PAH",
+    "uniprotId": "P00439",
+    "proteinName": "Phenylalanine-4-hydroxylase",
+    "inheritance": {
+      "it": "Autosomica recessiva",
+      "en": "Autosomal recessive"
+    },
+    "damageType": {
+      "it": "Riduzione o assenza dell'attività della fenilalanina idrossilasi con accumulo tossico di fenilalanina.",
+      "en": "Reduced or absent phenylalanine hydroxylase activity with toxic phenylalanine accumulation."
+    },
+    "course": {
+      "it": "Senza trattamento precoce può causare disabilità intellettiva, crisi epilettiche e problemi neurocomportamentali; lo screening neonatale e il trattamento dietetico prevengono gran parte del danno.",
+      "en": "Without early treatment it can cause intellectual disability, seizures, and neurobehavioral problems; newborn screening and dietary treatment prevent much of the damage."
+    },
+    "therapies": {
+      "it": "Dieta controllata a basso contenuto di fenilalanina e alimenti medici; sapropterina per forme responsive, pegvaliase in pazienti selezionati, con monitoraggio specialistico.",
+      "en": "Phenylalanine-restricted diet and medical foods; sapropterin for responsive forms, pegvaliase in selected patients, with specialist monitoring."
+    },
+    "omim": "261600",
+    "links": {
+      "uniprot": "https://www.uniprot.org/uniprotkb/P00439/entry",
+      "omim": "https://www.omim.org/entry/261600"
+    }
+  },
+  {
+    "id": "tay-sachs-disease",
+    "name": {
+      "it": "Malattia di Tay-Sachs",
+      "en": "Tay-Sachs disease"
+    },
+    "gene": "HEXA",
+    "uniprotId": "P06865",
+    "proteinName": "Beta-hexosaminidase subunit alpha",
+    "inheritance": {
+      "it": "Autosomica recessiva",
+      "en": "Autosomal recessive"
+    },
+    "damageType": {
+      "it": "Deficit della subunità alfa della beta-esosaminidasi A con accumulo lisosomiale di ganglioside GM2 nei neuroni.",
+      "en": "Deficiency of the beta-hexosaminidase A alpha subunit with lysosomal GM2 ganglioside accumulation in neurons."
+    },
+    "course": {
+      "it": "La forma infantile causa regressione dello sviluppo, debolezza, crisi epilettiche, perdita visiva/uditiva e neurodegenerazione progressiva; forme giovanili e adulte sono più rare e variabili.",
+      "en": "The infantile form causes developmental regression, weakness, seizures, visual/hearing loss, and progressive neurodegeneration; juvenile and adult forms are rarer and variable."
+    },
+    "therapies": {
+      "it": "Nessuna terapia risolutiva consolidata; trattamento principalmente di supporto e sintomatico, inclusa gestione di nutrizione, respirazione e crisi epilettiche.",
+      "en": "No established curative therapy; treatment is mainly supportive and symptomatic, including nutrition, respiratory, and seizure management."
+    },
+    "omim": "272800",
+    "links": {
+      "uniprot": "https://www.uniprot.org/uniprotkb/P06865/entry",
+      "omim": "https://www.omim.org/entry/272800"
+    }
+  },
+  {
+    "id": "duchenne-muscular-dystrophy",
+    "name": {
+      "it": "Distrofia muscolare di Duchenne",
+      "en": "Duchenne muscular dystrophy"
+    },
+    "gene": "DMD",
+    "uniprotId": "P11532",
+    "proteinName": "Dystrophin",
+    "inheritance": {
+      "it": "Recessiva legata all'X",
+      "en": "X-linked recessive"
+    },
+    "damageType": {
+      "it": "Varianti di DMD, spesso delezioni out-of-frame o varianti nonsense, che impediscono la produzione di distrofina funzionale.",
+      "en": "DMD variants, often out-of-frame deletions or nonsense variants, that prevent production of functional dystrophin."
+    },
+    "course": {
+      "it": "Debolezza muscolare progressiva dall'infanzia, perdita della deambulazione spesso in adolescenza, cardiomiopatia e insufficienza respiratoria nel decorso.",
+      "en": "Progressive childhood-onset muscle weakness, loss of ambulation often in adolescence, with cardiomyopathy and respiratory insufficiency over time."
+    },
+    "therapies": {
+      "it": "Corticosteroidi e presa in carico cardiologica, respiratoria, fisioterapica e ortopedica; terapie exon-skipping o geniche per sottogruppi selezionati. Non esiste una cura risolutiva universale.",
+      "en": "Corticosteroids plus cardiac, respiratory, physical-therapy, and orthopedic care; exon-skipping or gene therapies for selected subgroups. There is no universal curative therapy."
+    },
+    "omim": "310200",
+    "links": {
+      "uniprot": "https://www.uniprot.org/uniprotkb/P11532/entry",
+      "omim": "https://www.omim.org/entry/310200"
+    }
+  }
+]
