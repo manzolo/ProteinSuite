@@ -1,23 +1,23 @@
 {
   "retrieved": "2026-06-16",
   "source": "UniProt REST API, reviewed:true AND database:pdb plus category-specific filters",
-  "recordCount": 294,
-  "uniqueUniProtIds": 294,
-  "uniqueStoredPdbIds": 826,
+  "recordCount": 300,
+  "uniqueUniProtIds": 300,
+  "uniqueStoredPdbIds": 857,
   "categories": {
-    "Transport": 32,
-    "Structural": 32,
-    "Enzyme": 32,
+    "Transport": 34,
+    "Structural": 33,
+    "Enzyme": 34,
     "Immune": 32,
     "Signaling": 32,
     "Membrane": 22,
     "Viral": 32,
     "DNA Binding": 32,
-    "RNA Binding": 32,
+    "RNA Binding": 33,
     "Fluorescent": 16
   },
   "organismCount": 43,
-  "familyCount": 148,
+  "familyCount": 154,
   "queries": [
     {
       "category": "Transport",
@@ -97,5 +97,6 @@
     "uniprot": "Records were discovered through UniProt REST API; attribution and links are retained for each accession.",
     "rcsbPdb": "Stored PDB IDs were validated through RCSB Data API and link to RCSB structure pages.",
     "note": "This is not legal advice; review source terms before public release."
-  }
+  },
+  "notes": "Includes 6 curated genetic-disease proteins added 2026-06-17 (SMN1, CFTR, HBB, PAH, HEXA, DMD)."
 }
